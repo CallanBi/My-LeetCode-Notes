@@ -3,7 +3,7 @@
 
 ## Tags - 题目标签
 
- <img src="https://img.shields.io/badge/Stack-栈-blue.svg">   <img src="https://img.shields.io/badge/Tree-树-blue.svg">   <img src="https://img.shields.io/badge/Depth-First Search-深度优先搜索-blue.svg">   <img src="https://img.shields.io/badge/Binary Search Tree-二叉搜索树-blue.svg">   <img src="https://img.shields.io/badge/Linked List-链表-blue.svg">   <img src="https://img.shields.io/badge/Binary Tree-二叉树-blue.svg">   <img src="https://img.shields.io/badge/Doubly-Linked List-双向链表-blue.svg">  
+ <img src="https://img.shields.io/badge/Stack-栈-blue.svg">   <img src="https://img.shields.io/badge/Tree-树-blue.svg">   <img src="https://img.shields.io/badge/Depth First Search-深度优先搜索-blue.svg">   <img src="https://img.shields.io/badge/Binary Search Tree-二叉搜索树-blue.svg">   <img src="https://img.shields.io/badge/Linked List-链表-blue.svg">   <img src="https://img.shields.io/badge/Binary Tree-二叉树-blue.svg">   <img src="https://img.shields.io/badge/Doubly Linked List-双向链表-blue.svg">  
 
 
 ## Description - 题目描述
@@ -46,7 +46,7 @@ English description is not available for the problem. Please switch to Chinese.
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/description/)
+[LeetCode](https://leetcode.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

@@ -120,7 +120,7 @@ P     I
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/zigzag-conversion/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/zigzag-conversion/description/)
+[LeetCode](https://leetcode.com/problems/zigzag-conversion/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/zigzag-conversion/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

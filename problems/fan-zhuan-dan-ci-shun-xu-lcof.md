@@ -54,7 +54,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/description/)
+[LeetCode](https://leetcode.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

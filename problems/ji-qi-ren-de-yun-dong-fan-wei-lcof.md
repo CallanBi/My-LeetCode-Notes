@@ -3,7 +3,7 @@
 
 ## Tags - 题目标签
 
- <img src="https://img.shields.io/badge/Depth-First Search-深度优先搜索-blue.svg">   <img src="https://img.shields.io/badge/Breadth-First Search-广度优先搜索-blue.svg">   <img src="https://img.shields.io/badge/Dynamic Programming-动态规划-blue.svg">  
+ <img src="https://img.shields.io/badge/Depth First Search-深度优先搜索-blue.svg">   <img src="https://img.shields.io/badge/Breadth First Search-广度优先搜索-blue.svg">   <img src="https://img.shields.io/badge/Dynamic Programming-动态规划-blue.svg">  
 
 
 ## Description - 题目描述
@@ -39,7 +39,7 @@ English description is not available for the problem. Please switch to Chinese.
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/description/)
+[LeetCode](https://leetcode.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

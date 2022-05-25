@@ -170,7 +170,7 @@ Since 4193 is in the range [-2<sup>31</sup>, 2<sup>31</sup> - 1], the final resu
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/string-to-integer-atoi/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/string-to-integer-atoi/description/)
+[LeetCode](https://leetcode.com/problems/string-to-integer-atoi/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/string-to-integer-atoi/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

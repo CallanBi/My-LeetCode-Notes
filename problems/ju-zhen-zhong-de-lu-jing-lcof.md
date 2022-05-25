@@ -56,7 +56,7 @@ English description is not available for the problem. Please switch to Chinese.
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/ju-zhen-zhong-de-lu-jing-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/description/)
+[LeetCode](https://leetcode.com/problems/ju-zhen-zhong-de-lu-jing-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

@@ -29,7 +29,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/description/)
+[LeetCode](https://leetcode.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

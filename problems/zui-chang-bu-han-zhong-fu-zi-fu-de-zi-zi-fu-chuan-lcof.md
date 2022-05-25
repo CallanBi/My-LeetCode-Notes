@@ -52,7 +52,7 @@ English description is not available for the problem. Please switch to Chinese.
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/description/)
+[LeetCode](https://leetcode.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

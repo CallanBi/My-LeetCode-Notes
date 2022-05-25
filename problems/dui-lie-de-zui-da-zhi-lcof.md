@@ -45,7 +45,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/dui-lie-de-zui-da-zhi-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/description/)
+[LeetCode](https://leetcode.com/problems/dui-lie-de-zui-da-zhi-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/dui-lie-de-zui-da-zhi-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

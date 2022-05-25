@@ -77,7 +77,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/jump-game/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/jump-game/description/)
+[LeetCode](https://leetcode.com/problems/jump-game/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/jump-game/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

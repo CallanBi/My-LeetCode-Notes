@@ -73,7 +73,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/ugly-number-ii/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/ugly-number-ii/description/)
+[LeetCode](https://leetcode.com/problems/ugly-number-ii/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/ugly-number-ii/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

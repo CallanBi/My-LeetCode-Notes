@@ -43,7 +43,7 @@ English description is not available for the problem. Please switch to Chinese.
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/description/)
+[LeetCode](https://leetcode.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

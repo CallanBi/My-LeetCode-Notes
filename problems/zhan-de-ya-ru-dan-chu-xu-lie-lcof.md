@@ -48,7 +48,7 @@ push(5), pop() -&gt; 5, pop() -&gt; 3, pop() -&gt; 2, pop() -&gt; 1
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/description/)
+[LeetCode](https://leetcode.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

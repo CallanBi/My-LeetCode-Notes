@@ -91,7 +91,7 @@ Window position                Max
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/sliding-window-maximum/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/sliding-window-maximum/description/)
+[LeetCode](https://leetcode.com/problems/sliding-window-maximum/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/sliding-window-maximum/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

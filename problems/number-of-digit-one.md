@@ -65,7 +65,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/number-of-digit-one/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/number-of-digit-one/description/)
+[LeetCode](https://leetcode.com/problems/number-of-digit-one/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/number-of-digit-one/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

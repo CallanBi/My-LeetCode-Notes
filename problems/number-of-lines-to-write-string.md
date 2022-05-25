@@ -96,7 +96,7 @@ S = &quot;bbbcccdddaaa&quot;
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/number-of-lines-to-write-string/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/)
+[LeetCode](https://leetcode.com/problems/number-of-lines-to-write-string/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/number-of-lines-to-write-string/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

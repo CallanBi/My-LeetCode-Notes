@@ -69,7 +69,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/all-possible-full-binary-trees/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/all-possible-full-binary-trees/description/)
+[LeetCode](https://leetcode.com/problems/all-possible-full-binary-trees/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/all-possible-full-binary-trees/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

@@ -46,7 +46,7 @@ English description is not available for the problem. Please switch to Chinese.
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/description/)
+[LeetCode](https://leetcode.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

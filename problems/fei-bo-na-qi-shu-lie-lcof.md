@@ -50,7 +50,7 @@ F(N) = F(N - 1) + F(N - 2), 其中 N > 1.</pre>
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/fei-bo-na-qi-shu-lie-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/description/)
+[LeetCode](https://leetcode.com/problems/fei-bo-na-qi-shu-lie-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

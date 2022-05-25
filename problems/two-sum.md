@@ -99,7 +99,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/two-sum/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/two-sum/description/)
+[LeetCode](https://leetcode.com/problems/two-sum/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/two-sum/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

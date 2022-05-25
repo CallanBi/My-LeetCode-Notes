@@ -45,7 +45,7 @@ English description is not available for the problem. Please switch to Chinese.
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/description/)
+[LeetCode](https://leetcode.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

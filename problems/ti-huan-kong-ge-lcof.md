@@ -32,7 +32,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/ti-huan-kong-ge-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/description/)
+[LeetCode](https://leetcode.com/problems/ti-huan-kong-ge-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

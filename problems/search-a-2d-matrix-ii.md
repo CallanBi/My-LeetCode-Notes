@@ -87,7 +87,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)
+[LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/search-a-2d-matrix-ii/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

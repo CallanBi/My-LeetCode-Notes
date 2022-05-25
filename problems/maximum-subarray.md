@@ -94,7 +94,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/maximum-subarray/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/maximum-subarray/description/)
+[LeetCode](https://leetcode.com/problems/maximum-subarray/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/maximum-subarray/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

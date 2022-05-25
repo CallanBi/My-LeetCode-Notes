@@ -83,7 +83,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+[LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

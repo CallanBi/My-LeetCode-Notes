@@ -89,7 +89,7 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)
+[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

@@ -85,7 +85,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/)
+[LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/median-of-two-sorted-arrays/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

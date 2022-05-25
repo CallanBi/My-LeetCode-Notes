@@ -41,7 +41,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/qiu-12n-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/qiu-12n-lcof/description/)
+[LeetCode](https://leetcode.com/problems/qiu-12n-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/qiu-12n-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

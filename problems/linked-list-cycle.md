@@ -110,7 +110,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/linked-list-cycle/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/linked-list-cycle/description/)
+[LeetCode](https://leetcode.com/problems/linked-list-cycle/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/linked-list-cycle/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

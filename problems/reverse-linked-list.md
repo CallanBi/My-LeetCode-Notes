@@ -91,7 +91,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/reverse-linked-list/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/reverse-linked-list/description/)
+[LeetCode](https://leetcode.com/problems/reverse-linked-list/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/reverse-linked-list/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

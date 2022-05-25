@@ -116,7 +116,7 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/merge-sorted-array/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/merge-sorted-array/description/)
+[LeetCode](https://leetcode.com/problems/merge-sorted-array/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/merge-sorted-array/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

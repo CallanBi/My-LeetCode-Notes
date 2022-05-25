@@ -69,7 +69,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/longest-palindromic-substring/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)
+[LeetCode](https://leetcode.com/problems/longest-palindromic-substring/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/longest-palindromic-substring/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

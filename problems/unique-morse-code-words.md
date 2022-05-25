@@ -121,7 +121,7 @@ There are 2 different transformations: &quot;--...-.&quot; and &quot;--...--.&qu
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/unique-morse-code-words/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/unique-morse-code-words/description/)
+[LeetCode](https://leetcode.com/problems/unique-morse-code-words/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/unique-morse-code-words/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

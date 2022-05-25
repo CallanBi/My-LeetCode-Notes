@@ -3,7 +3,7 @@
 
 ## Tags - 题目标签
 
- <img src="https://img.shields.io/badge/Tree-树-blue.svg">   <img src="https://img.shields.io/badge/Depth-First Search-深度优先搜索-blue.svg">   <img src="https://img.shields.io/badge/Binary Tree-二叉树-blue.svg">  
+ <img src="https://img.shields.io/badge/Tree-树-blue.svg">   <img src="https://img.shields.io/badge/Depth First Search-深度优先搜索-blue.svg">   <img src="https://img.shields.io/badge/Binary Tree-二叉树-blue.svg">  
 
 
 ## Description - 题目描述
@@ -52,7 +52,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/description/)
+[LeetCode](https://leetcode.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

@@ -45,7 +45,7 @@
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/description/)
+[LeetCode](https://leetcode.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

@@ -41,7 +41,7 @@ English description is not available for the problem. Please switch to Chinese.
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/description/)
+[LeetCode](https://leetcode.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 

@@ -68,7 +68,7 @@ p = &quot;mis*is*p*.&quot;
 
 ## Link - 题目链接
 
-[LeetCode](https://leetcode.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/description/)  -  [LeetCode-CN](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/description/)
+[LeetCode](https://leetcode.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/description/)  -  [LeetCode-CN](https://leetcode.cn/problems/zheng-ze-biao-da-shi-pi-pei-lcof/description/)
 ## Latest Accepted Submissions - 最近一次 AC 的提交
 
 
