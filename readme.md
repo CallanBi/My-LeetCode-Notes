@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/130/2647-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/131/2647-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-55-green.svg">
-  <img src="https://img.shields.io/badge/Medium-62-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-63-orange.svg">
   <img src="https://img.shields.io/badge/Hard-13-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/05/25 21:43</b>
+  <b>Last updated: 2022/05/25 22:18</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
 | 48 | [Rotate Image](problems/rotate-image.md) | [旋转图像](problems/rotate-image.md) | ![](./imgs/medium.png) | 2022/05/11 18:14
 | 46 | [Permutations](problems/permutations.md) | [全排列](problems/permutations.md) | ![](./imgs/medium.png) | 2022/05/08 23:47
@@ -251,6 +252,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 32 | [Longest Valid Parentheses](problems/longest-valid-parentheses.md) | [最长有效括号](problems/longest-valid-parentheses.md) | ![](./imgs/hard.png) | 2022/05/04 0:04
 | 42 | [Trapping Rain Water](problems/trapping-rain-water.md) | [接雨水](problems/trapping-rain-water.md) | ![](./imgs/hard.png) | 2022/04/10 19:31
 | 53 | [Maximum Subarray](problems/maximum-subarray.md) | [最大子数组和](problems/maximum-subarray.md) | ![](./imgs/easy.png) | 2022/04/10 22:40
+| 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
 | 64 | [Minimum Path Sum](problems/minimum-path-sum.md) | [最小路径和](problems/minimum-path-sum.md) | ![](./imgs/medium.png) | 2022/04/14 13:54
 | 233 | [Number of Digit One](problems/number-of-digit-one.md) | [数字 1 的个数](problems/number-of-digit-one.md) | ![](./imgs/hard.png) | 2022/04/11 16:30
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
@@ -332,6 +334,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
 | 11 | [Container With Most Water](problems/container-with-most-water.md) | [盛最多水的容器](problems/container-with-most-water.md) | ![](./imgs/medium.png) | 2022/04/12 12:19
+| 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
 | 剑指 Offer 45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
 
 
@@ -454,6 +457,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 46 | [Permutations](problems/permutations.md) | [全排列](problems/permutations.md) | ![](./imgs/medium.png) | 2022/05/08 23:47
 | 48 | [Rotate Image](problems/rotate-image.md) | [旋转图像](problems/rotate-image.md) | ![](./imgs/medium.png) | 2022/05/11 18:14
 | 53 | [Maximum Subarray](problems/maximum-subarray.md) | [最大子数组和](problems/maximum-subarray.md) | ![](./imgs/easy.png) | 2022/04/10 22:40
+| 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
 | 64 | [Minimum Path Sum](problems/minimum-path-sum.md) | [最小路径和](problems/minimum-path-sum.md) | ![](./imgs/medium.png) | 2022/04/14 13:54
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
