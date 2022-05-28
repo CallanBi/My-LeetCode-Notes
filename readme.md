@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/131/2647-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/132/2648-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-55-green.svg">
-  <img src="https://img.shields.io/badge/Medium-63-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-64-orange.svg">
   <img src="https://img.shields.io/badge/Hard-13-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/05/25 22:41</b>
+  <b>Last updated: 2022/05/28 21:25</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 56 | [Merge Intervals](problems/merge-intervals.md) | [合并区间](problems/merge-intervals.md) | ![](./imgs/medium.png) | 2022/05/28 21:09
 | 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
 | 48 | [Rotate Image](problems/rotate-image.md) | [旋转图像](problems/rotate-image.md) | ![](./imgs/medium.png) | 2022/05/11 18:14
@@ -458,6 +459,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 48 | [Rotate Image](problems/rotate-image.md) | [旋转图像](problems/rotate-image.md) | ![](./imgs/medium.png) | 2022/05/11 18:14
 | 53 | [Maximum Subarray](problems/maximum-subarray.md) | [最大子数组和](problems/maximum-subarray.md) | ![](./imgs/easy.png) | 2022/04/10 22:40
 | 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
+| 56 | [Merge Intervals](problems/merge-intervals.md) | [合并区间](problems/merge-intervals.md) | ![](./imgs/medium.png) | 2022/05/28 21:09
 | 64 | [Minimum Path Sum](problems/minimum-path-sum.md) | [最小路径和](problems/minimum-path-sum.md) | ![](./imgs/medium.png) | 2022/04/14 13:54
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
@@ -543,6 +545,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 |:---:|:-----:|:-----:|:----------:|:----------:|
 | 15 | [3Sum](problems/3sum.md) | [三数之和](problems/3sum.md) | ![](./imgs/medium.png) | 2021/11/03 22:37
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
+| 56 | [Merge Intervals](problems/merge-intervals.md) | [合并区间](problems/merge-intervals.md) | ![](./imgs/medium.png) | 2022/05/28 21:09
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
