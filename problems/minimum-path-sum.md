@@ -128,5 +128,6 @@ function minPathSum(grid: number[][]): number {
 ## My Notes - 我的笔记
 
 
-No notes
+依然是典型的 dfs 记忆化搜索 / dp 双解法题
+
 

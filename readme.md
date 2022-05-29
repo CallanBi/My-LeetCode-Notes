@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/132/2648-Solved/Total-blue.svg">
-  <img src="https://img.shields.io/badge/Easy-55-green.svg">
-  <img src="https://img.shields.io/badge/Medium-64-orange.svg">
+  <img src="https://img.shields.io/badge/134/2656-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/Easy-56-green.svg">
+  <img src="https://img.shields.io/badge/Medium-65-orange.svg">
   <img src="https://img.shields.io/badge/Hard-13-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/05/28 21:25</b>
+  <b>Last updated: 2022/05/29 17:31</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 70 | [Climbing Stairs](problems/climbing-stairs.md) | [爬楼梯](problems/climbing-stairs.md) | ![](./imgs/easy.png) | 2022/05/29 17:06
+| 62 | [Unique Paths](problems/unique-paths.md) | [不同路径](problems/unique-paths.md) | ![](./imgs/medium.png) | 2022/05/29 16:51
 | 56 | [Merge Intervals](problems/merge-intervals.md) | [合并区间](problems/merge-intervals.md) | ![](./imgs/medium.png) | 2022/05/28 21:09
 | 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
@@ -254,7 +256,9 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 42 | [Trapping Rain Water](problems/trapping-rain-water.md) | [接雨水](problems/trapping-rain-water.md) | ![](./imgs/hard.png) | 2022/04/10 19:31
 | 53 | [Maximum Subarray](problems/maximum-subarray.md) | [最大子数组和](problems/maximum-subarray.md) | ![](./imgs/easy.png) | 2022/04/10 22:40
 | 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
+| 62 | [Unique Paths](problems/unique-paths.md) | [不同路径](problems/unique-paths.md) | ![](./imgs/medium.png) | 2022/05/29 16:51
 | 64 | [Minimum Path Sum](problems/minimum-path-sum.md) | [最小路径和](problems/minimum-path-sum.md) | ![](./imgs/medium.png) | 2022/04/14 13:54
+| 70 | [Climbing Stairs](problems/climbing-stairs.md) | [爬楼梯](problems/climbing-stairs.md) | ![](./imgs/easy.png) | 2022/05/29 17:06
 | 233 | [Number of Digit One](problems/number-of-digit-one.md) | [数字 1 的个数](problems/number-of-digit-one.md) | ![](./imgs/hard.png) | 2022/04/11 16:30
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 343 | [Integer Break](problems/integer-break.md) | [整数拆分](problems/integer-break.md) | ![](./imgs/medium.png) | 2022/04/10 21:16
