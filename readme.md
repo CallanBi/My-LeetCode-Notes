@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/134/2656-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/135/2656-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-56-green.svg">
   <img src="https://img.shields.io/badge/Medium-65-orange.svg">
-  <img src="https://img.shields.io/badge/Hard-13-red.svg">
+  <img src="https://img.shields.io/badge/Hard-14-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/05/29 17:31</b>
+  <b>Last updated: 2022/05/30 12:54</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 72 | [Edit Distance](problems/edit-distance.md) | [编辑距离](problems/edit-distance.md) | ![](./imgs/hard.png) | 2022/05/29 23:44
 | 70 | [Climbing Stairs](problems/climbing-stairs.md) | [爬楼梯](problems/climbing-stairs.md) | ![](./imgs/easy.png) | 2022/05/29 17:06
 | 62 | [Unique Paths](problems/unique-paths.md) | [不同路径](problems/unique-paths.md) | ![](./imgs/medium.png) | 2022/05/29 16:51
 | 56 | [Merge Intervals](problems/merge-intervals.md) | [合并区间](problems/merge-intervals.md) | ![](./imgs/medium.png) | 2022/05/28 21:09
@@ -259,6 +260,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 62 | [Unique Paths](problems/unique-paths.md) | [不同路径](problems/unique-paths.md) | ![](./imgs/medium.png) | 2022/05/29 16:51
 | 64 | [Minimum Path Sum](problems/minimum-path-sum.md) | [最小路径和](problems/minimum-path-sum.md) | ![](./imgs/medium.png) | 2022/04/14 13:54
 | 70 | [Climbing Stairs](problems/climbing-stairs.md) | [爬楼梯](problems/climbing-stairs.md) | ![](./imgs/easy.png) | 2022/05/29 17:06
+| 72 | [Edit Distance](problems/edit-distance.md) | [编辑距离](problems/edit-distance.md) | ![](./imgs/hard.png) | 2022/05/29 23:44
 | 233 | [Number of Digit One](problems/number-of-digit-one.md) | [数字 1 的个数](problems/number-of-digit-one.md) | ![](./imgs/hard.png) | 2022/04/11 16:30
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 343 | [Integer Break](problems/integer-break.md) | [整数拆分](problems/integer-break.md) | ![](./imgs/medium.png) | 2022/04/10 21:16
@@ -388,6 +390,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 22 | [Generate Parentheses](problems/generate-parentheses.md) | [括号生成](problems/generate-parentheses.md) | ![](./imgs/medium.png) | 2022/05/02 17:42
 | 32 | [Longest Valid Parentheses](problems/longest-valid-parentheses.md) | [最长有效括号](problems/longest-valid-parentheses.md) | ![](./imgs/hard.png) | 2022/05/04 0:04
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
+| 72 | [Edit Distance](problems/edit-distance.md) | [编辑距离](problems/edit-distance.md) | ![](./imgs/hard.png) | 2022/05/29 23:44
 | 415 | [Add Strings](problems/add-strings.md) | [字符串相加](problems/add-strings.md) | ![](./imgs/easy.png) | 2020/03/23 17:40
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 806 | [Number of Lines To Write String](problems/number-of-lines-to-write-string.md) | [写字符串需要的行数](problems/number-of-lines-to-write-string.md) | ![](./imgs/easy.png) | 2022/04/12 11:09
