@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/135/2656-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/137/2656-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-56-green.svg">
-  <img src="https://img.shields.io/badge/Medium-65-orange.svg">
-  <img src="https://img.shields.io/badge/Hard-14-red.svg">
+  <img src="https://img.shields.io/badge/Medium-66-orange.svg">
+  <img src="https://img.shields.io/badge/Hard-15-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/05/30 12:54</b>
+  <b>Last updated: 2022/05/30 18:31</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
+| 75 | [Sort Colors](problems/sort-colors.md) | [颜色分类](problems/sort-colors.md) | ![](./imgs/medium.png) | 2022/05/30 14:57
 | 72 | [Edit Distance](problems/edit-distance.md) | [编辑距离](problems/edit-distance.md) | ![](./imgs/hard.png) | 2022/05/29 23:44
 | 70 | [Climbing Stairs](problems/climbing-stairs.md) | [爬楼梯](problems/climbing-stairs.md) | ![](./imgs/easy.png) | 2022/05/29 17:06
 | 62 | [Unique Paths](problems/unique-paths.md) | [不同路径](problems/unique-paths.md) | ![](./imgs/medium.png) | 2022/05/29 16:51
@@ -288,6 +290,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 19 | [Remove Nth Node From End of List](problems/remove-nth-node-from-end-of-list.md) | [删除链表的倒数第 N 个结点](problems/remove-nth-node-from-end-of-list.md) | ![](./imgs/medium.png) | 2022/05/02 0:11
 | 31 | [Next Permutation](problems/next-permutation.md) | [下一个排列](problems/next-permutation.md) | ![](./imgs/medium.png) | 2022/05/03 17:25
 | 42 | [Trapping Rain Water](problems/trapping-rain-water.md) | [接雨水](problems/trapping-rain-water.md) | ![](./imgs/hard.png) | 2022/04/10 19:31
+| 75 | [Sort Colors](problems/sort-colors.md) | [颜色分类](problems/sort-colors.md) | ![](./imgs/medium.png) | 2022/05/30 14:57
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 141 | [Linked List Cycle](problems/linked-list-cycle.md) | [环形链表](problems/linked-list-cycle.md) | ![](./imgs/easy.png) | 2021/11/04 21:13
 | 142 | [Linked List Cycle II](problems/linked-list-cycle-ii.md) | [环形链表 II](problems/linked-list-cycle-ii.md) | ![](./imgs/medium.png) | 2021/11/04 21:56
@@ -305,6 +308,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
 | 3 | [Longest Substring Without Repeating Characters](problems/longest-substring-without-repeating-characters.md) | [无重复字符的最长子串](problems/longest-substring-without-repeating-characters.md) | ![](./imgs/medium.png) | 2022/03/31 19:30
+| 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 剑指 Offer 48 | [最长不含重复字符的子字符串 LCOF](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | [最长不含重复字符的子字符串](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/12/19 15:22
 | 剑指 Offer 59 - I | [滑动窗口的最大值 LCOF](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | [滑动窗口的最大值](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | ![](./imgs/hard.png) | 2022/04/23 18:40
@@ -391,6 +395,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 32 | [Longest Valid Parentheses](problems/longest-valid-parentheses.md) | [最长有效括号](problems/longest-valid-parentheses.md) | ![](./imgs/hard.png) | 2022/05/04 0:04
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
 | 72 | [Edit Distance](problems/edit-distance.md) | [编辑距离](problems/edit-distance.md) | ![](./imgs/hard.png) | 2022/05/29 23:44
+| 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
 | 415 | [Add Strings](problems/add-strings.md) | [字符串相加](problems/add-strings.md) | ![](./imgs/easy.png) | 2020/03/23 17:40
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 806 | [Number of Lines To Write String](problems/number-of-lines-to-write-string.md) | [写字符串需要的行数](problems/number-of-lines-to-write-string.md) | ![](./imgs/easy.png) | 2022/04/12 11:09
@@ -468,6 +473,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
 | 56 | [Merge Intervals](problems/merge-intervals.md) | [合并区间](problems/merge-intervals.md) | ![](./imgs/medium.png) | 2022/05/28 21:09
 | 64 | [Minimum Path Sum](problems/minimum-path-sum.md) | [最小路径和](problems/minimum-path-sum.md) | ![](./imgs/medium.png) | 2022/04/14 13:54
+| 75 | [Sort Colors](problems/sort-colors.md) | [颜色分类](problems/sort-colors.md) | ![](./imgs/medium.png) | 2022/05/30 14:57
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
@@ -530,6 +536,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 3 | [Longest Substring Without Repeating Characters](problems/longest-substring-without-repeating-characters.md) | [无重复字符的最长子串](problems/longest-substring-without-repeating-characters.md) | ![](./imgs/medium.png) | 2022/03/31 19:30
 | 17 | [Letter Combinations of a Phone Number](problems/letter-combinations-of-a-phone-number.md) | [电话号码的字母组合](problems/letter-combinations-of-a-phone-number.md) | ![](./imgs/medium.png) | 2022/05/01 23:52
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
+| 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
 | 141 | [Linked List Cycle](problems/linked-list-cycle.md) | [环形链表](problems/linked-list-cycle.md) | ![](./imgs/easy.png) | 2021/11/04 21:13
 | 142 | [Linked List Cycle II](problems/linked-list-cycle-ii.md) | [环形链表 II](problems/linked-list-cycle-ii.md) | ![](./imgs/medium.png) | 2021/11/04 21:56
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
@@ -553,6 +560,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 15 | [3Sum](problems/3sum.md) | [三数之和](problems/3sum.md) | ![](./imgs/medium.png) | 2021/11/03 22:37
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
 | 56 | [Merge Intervals](problems/merge-intervals.md) | [合并区间](problems/merge-intervals.md) | ![](./imgs/medium.png) | 2022/05/28 21:09
+| 75 | [Sort Colors](problems/sort-colors.md) | [颜色分类](problems/sort-colors.md) | ![](./imgs/medium.png) | 2022/05/30 14:57
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
