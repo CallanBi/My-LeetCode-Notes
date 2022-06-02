@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/138/2657-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/140/2657-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-56-green.svg">
-  <img src="https://img.shields.io/badge/Medium-67-orange.svg">
-  <img src="https://img.shields.io/badge/Hard-15-red.svg">
+  <img src="https://img.shields.io/badge/Medium-68-orange.svg">
+  <img src="https://img.shields.io/badge/Hard-16-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/06/01 23:09</b>
+  <b>Last updated: 2022/06/02 19:32</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 84 | [Largest Rectangle in Histogram](problems/largest-rectangle-in-histogram.md) | [柱状图中最大的矩形](problems/largest-rectangle-in-histogram.md) | ![](./imgs/hard.png) | 2022/06/02 19:31
+| 79 | [Word Search](problems/word-search.md) | [单词搜索](problems/word-search.md) | ![](./imgs/medium.png) | 2022/06/02 15:08
 | 78 | [Subsets](problems/subsets.md) | [子集](problems/subsets.md) | ![](./imgs/medium.png) | 2022/06/01 23:03
 | 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
 | 75 | [Sort Colors](problems/sort-colors.md) | [颜色分类](problems/sort-colors.md) | ![](./imgs/medium.png) | 2022/05/30 14:57
@@ -338,6 +340,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 39 | [Combination Sum](problems/combination-sum.md) | [组合总和](problems/combination-sum.md) | ![](./imgs/medium.png) | 2022/05/08 22:18
 | 46 | [Permutations](problems/permutations.md) | [全排列](problems/permutations.md) | ![](./imgs/medium.png) | 2022/05/08 23:47
 | 78 | [Subsets](problems/subsets.md) | [子集](problems/subsets.md) | ![](./imgs/medium.png) | 2022/06/01 23:03
+| 79 | [Word Search](problems/word-search.md) | [单词搜索](problems/word-search.md) | ![](./imgs/medium.png) | 2022/06/02 15:08
 | 357 | [Count Numbers with Unique Digits](problems/count-numbers-with-unique-digits.md) | [统计各位数字都不同的数字个数](problems/count-numbers-with-unique-digits.md) | ![](./imgs/medium.png) | 2022/04/11 18:53
 | 剑指 Offer 12 | [矩阵中的路径  LCOF](problems/ju-zhen-zhong-de-lu-jing-lcof.md) | [矩阵中的路径](problems/ju-zhen-zhong-de-lu-jing-lcof.md) | ![](./imgs/medium.png) | 2021/04/08 2:53
 | 剑指 Offer 34 | [二叉树中和为某一值的路径 LCOF](problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.md) | [二叉树中和为某一值的路径](problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.md) | ![](./imgs/medium.png) | 2021/11/08 19:29
@@ -439,6 +442,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 20 | [Valid Parentheses](problems/valid-parentheses.md) | [有效的括号](problems/valid-parentheses.md) | ![](./imgs/easy.png) | 2022/05/02 13:34
 | 32 | [Longest Valid Parentheses](problems/longest-valid-parentheses.md) | [最长有效括号](problems/longest-valid-parentheses.md) | ![](./imgs/hard.png) | 2022/05/04 0:04
 | 42 | [Trapping Rain Water](problems/trapping-rain-water.md) | [接雨水](problems/trapping-rain-water.md) | ![](./imgs/hard.png) | 2022/04/10 19:31
+| 84 | [Largest Rectangle in Histogram](problems/largest-rectangle-in-histogram.md) | [柱状图中最大的矩形](problems/largest-rectangle-in-histogram.md) | ![](./imgs/hard.png) | 2022/06/02 19:31
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 剑指 Offer 06 | [从尾到头打印链表 LCOF](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | [从尾到头打印链表](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 23:11
@@ -478,6 +482,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 64 | [Minimum Path Sum](problems/minimum-path-sum.md) | [最小路径和](problems/minimum-path-sum.md) | ![](./imgs/medium.png) | 2022/04/14 13:54
 | 75 | [Sort Colors](problems/sort-colors.md) | [颜色分类](problems/sort-colors.md) | ![](./imgs/medium.png) | 2022/05/30 14:57
 | 78 | [Subsets](problems/subsets.md) | [子集](problems/subsets.md) | ![](./imgs/medium.png) | 2022/06/01 23:03
+| 79 | [Word Search](problems/word-search.md) | [单词搜索](problems/word-search.md) | ![](./imgs/medium.png) | 2022/06/02 15:08
+| 84 | [Largest Rectangle in Histogram](problems/largest-rectangle-in-histogram.md) | [柱状图中最大的矩形](problems/largest-rectangle-in-histogram.md) | ![](./imgs/hard.png) | 2022/06/02 19:31
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
@@ -515,6 +521,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 |:---:|:-----:|:-----:|:----------:|:----------:|
 | 48 | [Rotate Image](problems/rotate-image.md) | [旋转图像](problems/rotate-image.md) | ![](./imgs/medium.png) | 2022/05/11 18:14
 | 64 | [Minimum Path Sum](problems/minimum-path-sum.md) | [最小路径和](problems/minimum-path-sum.md) | ![](./imgs/medium.png) | 2022/04/14 13:54
+| 79 | [Word Search](problems/word-search.md) | [单词搜索](problems/word-search.md) | ![](./imgs/medium.png) | 2022/06/02 15:08
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
 | 剑指 Offer 04 | [二维数组中的查找 LCOF](problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof.md) | [二维数组中的查找](problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof.md) | ![](./imgs/medium.png) | 2021/04/03 19:32
 | 剑指 Offer 12 | [矩阵中的路径  LCOF](problems/ju-zhen-zhong-de-lu-jing-lcof.md) | [矩阵中的路径](problems/ju-zhen-zhong-de-lu-jing-lcof.md) | ![](./imgs/medium.png) | 2021/04/08 2:53
