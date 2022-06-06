@@ -81,29 +81,45 @@ The largest rectangle is shown in the red area, which has an area = 10 units.
 
 | Language | Runtime | Memory | Submission Time |
 |:---:|:---:|:---:|:---:|
-| typescript  | 84 ms | 52.7 MB | 2022/06/02 19:31 |
+| golang  | 80 ms | 9.4 MB | 2022/06/06 17:39 |
 
-```typescript
+```golang
 
-function largestRectangleArea(heights: number[]): number {
-  let i = 0,
-    maxArea = 0,
-    stack = [];
+func largestRectangleArea(heights []int) int {
 
-  for (let i = 0, len = heights.length; i <= len; i++) {
-    while (stack.length > 0 && (heights[i] < heights[stack[stack.length - 1]] || i === len)) {
-      const curIdx = stack.pop();
-      const height = heights[curIdx],
-        width = stack.length > 0 ? i - stack[stack.length - 1] - 1 : i;
+  maxArea := 0
+  leng := len(heights)
+  stack := make([]int, 0)
 
-      maxArea = Math.max(maxArea, width * height);
+
+  for i := 0; i <= leng; i++ {
+    for len(stack) > 0 && (i == leng || heights[i] < heights[stack[len(stack) - 1]]) {
+
+      curIdx := stack[len(stack) - 1]
+
+      stack = stack[:len(stack) - 1]
+
+      height := heights[curIdx]
+
+      var width int
+      if len(stack) > 0 {
+        width = i - stack[len(stack) - 1] - 1
+      } else {
+        width = i
+      }
+
+      curArea := width * height
+
+      if maxArea < curArea {
+        maxArea = curArea
+      }
     }
 
-    stack.push(i);
+    stack = append(stack, i)
   }
 
-  return maxArea;
-};
+  return maxArea
+}
 
 ```
 ## My Notes - 我的笔记
@@ -133,6 +149,8 @@ function largestRectangleArea(heights: number[]): number {
 
 故我们可以写出这样的代码：
 
+## TS 版本
+
 ```typescript
 function largestRectangleArea(heights: number[]): number {
   let i = 0,
@@ -153,6 +171,45 @@ function largestRectangleArea(heights: number[]): number {
 
   return maxArea;
 };
+```
+## go 版本
+
+```go
+func largestRectangleArea(heights []int) int {
+
+  maxArea := 0
+  leng := len(heights)
+  stack := make([]int, 0)
+
+
+  for i := 0; i <= leng; i++ {
+    for len(stack) > 0 && (i == leng || heights[i] < heights[stack[len(stack) - 1]]) {
+
+      curIdx := stack[len(stack) - 1]
+
+      stack = stack[:len(stack) - 1]
+
+      height := heights[curIdx]
+
+      var width int
+      if len(stack) > 0 {
+        width = i - stack[len(stack) - 1] - 1
+      } else {
+        width = i
+      }
+
+      curArea := width * height
+
+      if maxArea < curArea {
+        maxArea = curArea
+      }
+    }
+
+    stack = append(stack, i)
+  }
+
+  return maxArea
+}
 ```
 
 
