@@ -107,49 +107,40 @@
 
 | Language | Runtime | Memory | Submission Time |
 |:---:|:---:|:---:|:---:|
-| golang  | 188 ms | 7 MB | 2022/06/06 19:07 |
+| golang  | 0 ms | 6 MB | 2022/06/06 21:03 |
 
 ```golang
 
 func maximalRectangle(matrix [][]byte) int {
-  m, n := len(matrix), len(matrix[0])
-  leftContinuous := make([][]int, m)
-  for i := range leftContinuous {
-    leftContinuous[i] = make([]int, n)
-  }
-
-  for i := 0; i < m; i++ {
-    for j := 0; j < n; j++ {
-      if j == 0 {
-        leftContinuous[i][j], _ = strconv.Atoi(string(matrix[i][j]))
-      } else {
-        if matrix[i][j] == '0' {
-          leftContinuous[i][j] = 0
-        } else {
-          leftContinuous[i][j] = leftContinuous[i][j-1] + 1
-        }
-      }
+    if len(matrix) == 0 || len(matrix[0]) == 0 {
+        return 0
     }
-  }
 
-  col := make([]int, n)
-  maxArea := 0
-
-  for j := 0; j < n; j++ {
+    m, n := len(matrix), len(matrix[0])
+    height := make([][]int, m)
     for i := 0; i < m; i++ {
-      col = append(col, leftContinuous[i][j])
-      curArea := largestRectangleInArr(&col)
-      if (curArea > maxArea) {
-        maxArea = curArea
-      }
+        height[i] = make([]int, n)
     }
-    col = make([]int, n)
-  }
 
-  return maxArea
+    for i := 0; i < m; i++ {
+        for j := 0; j < n; j++ {
+            if matrix[i][j] == '0' {
+                continue
+            }
+            if i == 0 {
+                height[i][j] = 1
+            } else {
+                height[i][j] = height[i - 1][j] + 1
+            }
+        }
+    }
 
+    ans := 0
+    for _, nums := range height {
+        ans = max(ans, largestRectangleInArr(&nums))
+    }
 
-
+    return ans
 }
 
 func largestRectangleInArr(heights *([]int)) int {
@@ -181,6 +172,22 @@ func largestRectangleInArr(heights *([]int)) int {
   }
 
   return maxArea
+}
+
+func min(a, b int) int {
+    if a < b {
+        return a
+    }
+
+    return b
+}
+
+func max(a, b int) int {
+    if a < b {
+        return b
+    }
+
+    return a
 }
 
 ```
