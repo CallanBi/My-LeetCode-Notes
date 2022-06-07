@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/142/2662-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/144/2662-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-57-green.svg">
-  <img src="https://img.shields.io/badge/Medium-68-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-70-orange.svg">
   <img src="https://img.shields.io/badge/Hard-17-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/06/06 22:05</b>
+  <b>Last updated: 2022/06/07 13:37</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 98 | [Validate Binary Search Tree](problems/validate-binary-search-tree.md) | [验证二叉搜索树](problems/validate-binary-search-tree.md) | ![](./imgs/medium.png) | 2022/06/07 13:35
+| 96 | [Unique Binary Search Trees](problems/unique-binary-search-trees.md) | [不同的二叉搜索树](problems/unique-binary-search-trees.md) | ![](./imgs/medium.png) | 2022/06/07 13:01
 | 94 | [Binary Tree Inorder Traversal](problems/binary-tree-inorder-traversal.md) | [二叉树的中序遍历](problems/binary-tree-inorder-traversal.md) | ![](./imgs/easy.png) | 2022/06/06 21:51
 | 85 | [Maximal Rectangle](problems/maximal-rectangle.md) | [最大矩形](problems/maximal-rectangle.md) | ![](./imgs/hard.png) | 2022/06/06 21:03
 | 84 | [Largest Rectangle in Histogram](problems/largest-rectangle-in-histogram.md) | [柱状图中最大的矩形](problems/largest-rectangle-in-histogram.md) | ![](./imgs/hard.png) | 2022/06/06 17:39
@@ -269,6 +271,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 70 | [Climbing Stairs](problems/climbing-stairs.md) | [爬楼梯](problems/climbing-stairs.md) | ![](./imgs/easy.png) | 2022/05/29 17:06
 | 72 | [Edit Distance](problems/edit-distance.md) | [编辑距离](problems/edit-distance.md) | ![](./imgs/hard.png) | 2022/05/29 23:44
 | 85 | [Maximal Rectangle](problems/maximal-rectangle.md) | [最大矩形](problems/maximal-rectangle.md) | ![](./imgs/hard.png) | 2022/06/06 21:03
+| 96 | [Unique Binary Search Trees](problems/unique-binary-search-trees.md) | [不同的二叉搜索树](problems/unique-binary-search-trees.md) | ![](./imgs/medium.png) | 2022/06/07 13:01
 | 233 | [Number of Digit One](problems/number-of-digit-one.md) | [数字 1 的个数](problems/number-of-digit-one.md) | ![](./imgs/hard.png) | 2022/04/11 16:30
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 343 | [Integer Break](problems/integer-break.md) | [整数拆分](problems/integer-break.md) | ![](./imgs/medium.png) | 2022/04/10 21:16
@@ -363,6 +366,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
 | 94 | [Binary Tree Inorder Traversal](problems/binary-tree-inorder-traversal.md) | [二叉树的中序遍历](problems/binary-tree-inorder-traversal.md) | ![](./imgs/easy.png) | 2022/06/06 21:51
+| 96 | [Unique Binary Search Trees](problems/unique-binary-search-trees.md) | [不同的二叉搜索树](problems/unique-binary-search-trees.md) | ![](./imgs/medium.png) | 2022/06/07 13:01
+| 98 | [Validate Binary Search Tree](problems/validate-binary-search-tree.md) | [验证二叉搜索树](problems/validate-binary-search-tree.md) | ![](./imgs/medium.png) | 2022/06/07 13:35
 | 100 | [Same Tree](problems/same-tree.md) | [相同的树](problems/same-tree.md) | ![](./imgs/easy.png) | 2018/12/08 19:21
 | 101 | [Symmetric Tree](problems/symmetric-tree.md) | [对称二叉树](problems/symmetric-tree.md) | ![](./imgs/easy.png) | 2020/03/23 22:54
 | 102 | [Binary Tree Level Order Traversal](problems/binary-tree-level-order-traversal.md) | [二叉树的层序遍历](problems/binary-tree-level-order-traversal.md) | ![](./imgs/medium.png) | 2020/03/23 16:37
