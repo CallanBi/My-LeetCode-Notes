@@ -87,51 +87,40 @@
 
 | Language | Runtime | Memory | Submission Time |
 |:---:|:---:|:---:|:---:|
-| javascript  | 92 ms | 34.1 MB | 2020/03/23 16:37 |
+| typescript  | 68 ms | 44.2 MB | 2022/06/10 14:54 |
 
-```javascript
+```typescript
 
 /**
  * Definition for a binary tree node.
- * function TreeNode(val) {
- *     this.val = val;
- *     this.left = this.right = null;
+ * class TreeNode {
+ *     val: number
+ *     left: TreeNode | null
+ *     right: TreeNode | null
+ *     constructor(val?: number, left?: TreeNode | null, right?: TreeNode | null) {
+ *         this.val = (val===undefined ? 0 : val)
+ *         this.left = (left===undefined ? null : left)
+ *         this.right = (right===undefined ? null : right)
+ *     }
  * }
  */
-/**
- * @param {TreeNode} root
- * @return {number[][]}
- */
-var levelOrder = function(root) {
-    if(!root) {
-        return [];
-    }
-    var res = [];
-    var queue = [];
-    var cur = null;
-    root.layer = 0;
-    
-    queue.push(root);
-    while (queue.length > 0) {
-        cur = queue.shift();
-        if (!res[cur.layer]) {
-            res[cur.layer] = [];
-        }
-        res[cur.layer].push(cur.val);
-        if(cur.left || cur.right) {
-            if(cur.left) {
-                cur.left.layer = cur.layer + 1;
-                queue.push(cur.left);
-            }
 
-             if(cur.right) {
-                cur.right.layer = cur.layer + 1;
-                queue.push(cur.right);
-            }
-        }
+function levelOrder(root: TreeNode | null): number[][] {
+  const result: number[][] = [];
+  if (root === null) return result;
+  const queue: TreeNode[] = [root];
+  while (queue.length) {
+    const level: number[] = [];
+    const size = queue.length;
+    for (let i = 0; i < size; i++) {
+      const node = queue.shift();
+      level.push(node!.val);
+      if (node!.left) queue.push(node!.left);
+      if (node!.right) queue.push(node!.right);
     }
-
-    return res;
+    result.push(level);
+  }
+  return result;
 }
 
 ```

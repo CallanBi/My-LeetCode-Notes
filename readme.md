@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/144/2662-Solved/Total-blue.svg">
-  <img src="https://img.shields.io/badge/Easy-57-green.svg">
-  <img src="https://img.shields.io/badge/Medium-70-orange.svg">
+  <img src="https://img.shields.io/badge/146/2663-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/Easy-58-green.svg">
+  <img src="https://img.shields.io/badge/Medium-71-orange.svg">
   <img src="https://img.shields.io/badge/Hard-17-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/06/07 13:37</b>
+  <b>Last updated: 2022/06/10 17:44</b>
   <br>
 </p>
 
@@ -28,6 +28,9 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
+| 104 | [Maximum Depth of Binary Tree](problems/maximum-depth-of-binary-tree.md) | [二叉树的最大深度](problems/maximum-depth-of-binary-tree.md) | ![](./imgs/easy.png) | 2022/06/10 15:35
+| 102 | [Binary Tree Level Order Traversal](problems/binary-tree-level-order-traversal.md) | [二叉树的层序遍历](problems/binary-tree-level-order-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 14:54
 | 98 | [Validate Binary Search Tree](problems/validate-binary-search-tree.md) | [验证二叉搜索树](problems/validate-binary-search-tree.md) | ![](./imgs/medium.png) | 2022/06/07 13:35
 | 96 | [Unique Binary Search Trees](problems/unique-binary-search-trees.md) | [不同的二叉搜索树](problems/unique-binary-search-trees.md) | ![](./imgs/medium.png) | 2022/06/07 13:01
 | 94 | [Binary Tree Inorder Traversal](problems/binary-tree-inorder-traversal.md) | [二叉树的中序遍历](problems/binary-tree-inorder-traversal.md) | ![](./imgs/easy.png) | 2022/06/06 21:51
@@ -156,7 +159,6 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
 | 230 | [Kth Smallest Element in a BST](problems/kth-smallest-element-in-a-bst.md) | [二叉搜索树中第K小的元素](problems/kth-smallest-element-in-a-bst.md) | ![](./imgs/medium.png) | 2020/03/23 18:14
 | 415 | [Add Strings](problems/add-strings.md) | [字符串相加](problems/add-strings.md) | ![](./imgs/easy.png) | 2020/03/23 17:40
-| 102 | [Binary Tree Level Order Traversal](problems/binary-tree-level-order-traversal.md) | [二叉树的层序遍历](problems/binary-tree-level-order-traversal.md) | ![](./imgs/medium.png) | 2020/03/23 16:37
 | 226 | [Invert Binary Tree](problems/invert-binary-tree.md) | [翻转二叉树](problems/invert-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 16:00
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 21 | [Merge Two Sorted Lists](problems/merge-two-sorted-lists.md) | [合并两个有序链表](problems/merge-two-sorted-lists.md) | ![](./imgs/easy.png) | 2020/03/23 15:12
@@ -328,6 +330,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 4 | [Median of Two Sorted Arrays](problems/median-of-two-sorted-arrays.md) | [寻找两个正序数组的中位数](problems/median-of-two-sorted-arrays.md) | ![](./imgs/hard.png) | 2018/11/12 18:01
 | 23 | [Merge k Sorted Lists](problems/merge-k-sorted-lists.md) | [合并K个升序链表](problems/merge-k-sorted-lists.md) | ![](./imgs/hard.png) | 2022/05/03 15:41
 | 53 | [Maximum Subarray](problems/maximum-subarray.md) | [最大子数组和](problems/maximum-subarray.md) | ![](./imgs/easy.png) | 2022/04/10 22:40
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
@@ -370,7 +373,9 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 98 | [Validate Binary Search Tree](problems/validate-binary-search-tree.md) | [验证二叉搜索树](problems/validate-binary-search-tree.md) | ![](./imgs/medium.png) | 2022/06/07 13:35
 | 100 | [Same Tree](problems/same-tree.md) | [相同的树](problems/same-tree.md) | ![](./imgs/easy.png) | 2018/12/08 19:21
 | 101 | [Symmetric Tree](problems/symmetric-tree.md) | [对称二叉树](problems/symmetric-tree.md) | ![](./imgs/easy.png) | 2020/03/23 22:54
-| 102 | [Binary Tree Level Order Traversal](problems/binary-tree-level-order-traversal.md) | [二叉树的层序遍历](problems/binary-tree-level-order-traversal.md) | ![](./imgs/medium.png) | 2020/03/23 16:37
+| 102 | [Binary Tree Level Order Traversal](problems/binary-tree-level-order-traversal.md) | [二叉树的层序遍历](problems/binary-tree-level-order-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 14:54
+| 104 | [Maximum Depth of Binary Tree](problems/maximum-depth-of-binary-tree.md) | [二叉树的最大深度](problems/maximum-depth-of-binary-tree.md) | ![](./imgs/easy.png) | 2022/06/10 15:35
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
 | 112 | [Path Sum](problems/path-sum.md) | [路径总和](problems/path-sum.md) | ![](./imgs/easy.png) | 2020/03/23 12:50
 | 226 | [Invert Binary Tree](problems/invert-binary-tree.md) | [翻转二叉树](problems/invert-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 16:00
 | 230 | [Kth Smallest Element in a BST](problems/kth-smallest-element-in-a-bst.md) | [二叉搜索树中第K小的元素](problems/kth-smallest-element-in-a-bst.md) | ![](./imgs/medium.png) | 2020/03/23 18:14
@@ -497,6 +502,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 84 | [Largest Rectangle in Histogram](problems/largest-rectangle-in-histogram.md) | [柱状图中最大的矩形](problems/largest-rectangle-in-histogram.md) | ![](./imgs/hard.png) | 2022/06/06 17:39
 | 85 | [Maximal Rectangle](problems/maximal-rectangle.md) | [最大矩形](problems/maximal-rectangle.md) | ![](./imgs/hard.png) | 2022/06/06 21:03
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
@@ -561,6 +567,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 17 | [Letter Combinations of a Phone Number](problems/letter-combinations-of-a-phone-number.md) | [电话号码的字母组合](problems/letter-combinations-of-a-phone-number.md) | ![](./imgs/medium.png) | 2022/05/01 23:52
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
 | 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
 | 141 | [Linked List Cycle](problems/linked-list-cycle.md) | [环形链表](problems/linked-list-cycle.md) | ![](./imgs/easy.png) | 2021/11/04 21:13
 | 142 | [Linked List Cycle II](problems/linked-list-cycle-ii.md) | [环形链表 II](problems/linked-list-cycle-ii.md) | ![](./imgs/medium.png) | 2021/11/04 21:56
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
@@ -600,6 +607,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 |:---:|:-----:|:-----:|:----------:|:----------:|
 | 100 | [Same Tree](problems/same-tree.md) | [相同的树](problems/same-tree.md) | ![](./imgs/easy.png) | 2018/12/08 19:21
 | 101 | [Symmetric Tree](problems/symmetric-tree.md) | [对称二叉树](problems/symmetric-tree.md) | ![](./imgs/easy.png) | 2020/03/23 22:54
+| 104 | [Maximum Depth of Binary Tree](problems/maximum-depth-of-binary-tree.md) | [二叉树的最大深度](problems/maximum-depth-of-binary-tree.md) | ![](./imgs/easy.png) | 2022/06/10 15:35
 | 112 | [Path Sum](problems/path-sum.md) | [路径总和](problems/path-sum.md) | ![](./imgs/easy.png) | 2020/03/23 12:50
 | 226 | [Invert Binary Tree](problems/invert-binary-tree.md) | [翻转二叉树](problems/invert-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 16:00
 | 965 | [Univalued Binary Tree](problems/univalued-binary-tree.md) | [单值二叉树](problems/univalued-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 14:02
