@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/146/2663-Solved/Total-blue.svg">
-  <img src="https://img.shields.io/badge/Easy-58-green.svg">
-  <img src="https://img.shields.io/badge/Medium-71-orange.svg">
+  <img src="https://img.shields.io/badge/148/2704-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/Easy-59-green.svg">
+  <img src="https://img.shields.io/badge/Medium-72-orange.svg">
   <img src="https://img.shields.io/badge/Hard-17-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/06/10 17:44</b>
+  <b>Last updated: 2022/07/12 13:39</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 121 | [Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock.md) | [买卖股票的最佳时机](problems/best-time-to-buy-and-sell-stock.md) | ![](./imgs/easy.png) | 2022/07/12 13:34
+| 114 | [Flatten Binary Tree to Linked List](problems/flatten-binary-tree-to-linked-list.md) | [二叉树展开为链表](problems/flatten-binary-tree-to-linked-list.md) | ![](./imgs/medium.png) | 2022/07/11 15:47
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
 | 104 | [Maximum Depth of Binary Tree](problems/maximum-depth-of-binary-tree.md) | [二叉树的最大深度](problems/maximum-depth-of-binary-tree.md) | ![](./imgs/easy.png) | 2022/06/10 15:35
 | 102 | [Binary Tree Level Order Traversal](problems/binary-tree-level-order-traversal.md) | [二叉树的层序遍历](problems/binary-tree-level-order-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 14:54
@@ -109,7 +111,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 43 | [1～n整数中1出现的次数  LCOF](problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md) | [1～n 整数中 1 出现的次数](problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/16 16:25
 | 剑指 Offer 42 | [连续子数组的最大和  LCOF](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | [连续子数组的最大和](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | ![](./imgs/easy.png) | 2021/12/14 19:32
 | 剑指 Offer 41 | [数据流中的中位数  LCOF](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | [数据流中的中位数](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/10 14:16
-| 剑指 Offer 40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
+| 面试题40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 | 剑指 Offer 38 | [字符串的排列  LCOF](problems/zi-fu-chuan-de-pai-lie-lcof.md) | [字符串的排列](problems/zi-fu-chuan-de-pai-lie-lcof.md) | ![](./imgs/medium.png) | 2021/11/30 12:17
 | 剑指 Offer 39 | [数组中出现次数超过一半的数字  LCOF](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | [数组中出现次数超过一半的数字](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/11/10 20:31
 | 剑指 Offer 37 | [序列化二叉树  LCOF](problems/xu-lie-hua-er-cha-shu-lcof.md) | [序列化二叉树](problems/xu-lie-hua-er-cha-shu-lcof.md) | ![](./imgs/hard.png) | 2021/11/10 15:13
@@ -165,7 +167,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 965 | [Univalued Binary Tree](problems/univalued-binary-tree.md) | [单值二叉树](problems/univalued-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 14:02
 | 112 | [Path Sum](problems/path-sum.md) | [路径总和](problems/path-sum.md) | ![](./imgs/easy.png) | 2020/03/23 12:50
 | 206 | [Reverse Linked List](problems/reverse-linked-list.md) | [反转链表](problems/reverse-linked-list.md) | ![](./imgs/easy.png) | 2020/03/23 12:45
-| 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的满二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
+| 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 100 | [Same Tree](problems/same-tree.md) | [相同的树](problems/same-tree.md) | ![](./imgs/easy.png) | 2018/12/08 19:21
 | 9 | [Palindrome Number](problems/palindrome-number.md) | [回文数](problems/palindrome-number.md) | ![](./imgs/easy.png) | 2018/11/20 10:24
@@ -219,7 +221,6 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 37 | [序列化二叉树  LCOF](problems/xu-lie-hua-er-cha-shu-lcof.md) | [序列化二叉树](problems/xu-lie-hua-er-cha-shu-lcof.md) | ![](./imgs/hard.png) | 2021/11/10 15:13
 | 剑指 Offer 38 | [字符串的排列  LCOF](problems/zi-fu-chuan-de-pai-lie-lcof.md) | [字符串的排列](problems/zi-fu-chuan-de-pai-lie-lcof.md) | ![](./imgs/medium.png) | 2021/11/30 12:17
 | 剑指 Offer 39 | [数组中出现次数超过一半的数字  LCOF](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | [数组中出现次数超过一半的数字](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/11/10 20:31
-| 剑指 Offer 40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 | 剑指 Offer 41 | [数据流中的中位数  LCOF](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | [数据流中的中位数](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/10 14:16
 | 剑指 Offer 42 | [连续子数组的最大和  LCOF](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | [连续子数组的最大和](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | ![](./imgs/easy.png) | 2021/12/14 19:32
 | 剑指 Offer 43 | [1～n整数中1出现的次数  LCOF](problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md) | [1～n 整数中 1 出现的次数](problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/16 16:25
@@ -255,6 +256,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 67 | [把字符串转换成整数 LCOF](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | [把字符串转换成整数](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:50
 | 剑指 Offer 68 - I | [二叉搜索树的最近公共祖先 LCOF](problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | [二叉搜索树的最近公共祖先](problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 17:47
 | 剑指 Offer 68 - II | [二叉树的最近公共祖先 LCOF](problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | [二叉树的最近公共祖先](problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 17:59
+| 面试题40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 
 ## 技巧 - Skills
 
@@ -274,11 +276,12 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 72 | [Edit Distance](problems/edit-distance.md) | [编辑距离](problems/edit-distance.md) | ![](./imgs/hard.png) | 2022/05/29 23:44
 | 85 | [Maximal Rectangle](problems/maximal-rectangle.md) | [最大矩形](problems/maximal-rectangle.md) | ![](./imgs/hard.png) | 2022/06/06 21:03
 | 96 | [Unique Binary Search Trees](problems/unique-binary-search-trees.md) | [不同的二叉搜索树](problems/unique-binary-search-trees.md) | ![](./imgs/medium.png) | 2022/06/07 13:01
+| 121 | [Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock.md) | [买卖股票的最佳时机](problems/best-time-to-buy-and-sell-stock.md) | ![](./imgs/easy.png) | 2022/07/12 13:34
 | 233 | [Number of Digit One](problems/number-of-digit-one.md) | [数字 1 的个数](problems/number-of-digit-one.md) | ![](./imgs/hard.png) | 2022/04/11 16:30
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 343 | [Integer Break](problems/integer-break.md) | [整数拆分](problems/integer-break.md) | ![](./imgs/medium.png) | 2022/04/10 21:16
 | 357 | [Count Numbers with Unique Digits](problems/count-numbers-with-unique-digits.md) | [统计各位数字都不同的数字个数](problems/count-numbers-with-unique-digits.md) | ![](./imgs/medium.png) | 2022/04/11 18:53
-| 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的满二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
+| 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
 | 剑指 Offer 10- I | [斐波那契数列  LCOF](problems/fei-bo-na-qi-shu-lie-lcof.md) | [斐波那契数列](problems/fei-bo-na-qi-shu-lie-lcof.md) | ![](./imgs/easy.png) | 2021/04/04 20:42
 | 剑指 Offer 10- II | [青蛙跳台阶问题  LCOF](problems/qing-wa-tiao-tai-jie-wen-ti-lcof.md) | [青蛙跳台阶问题](problems/qing-wa-tiao-tai-jie-wen-ti-lcof.md) | ![](./imgs/easy.png) | 2021/04/04 21:17
 | 剑指 Offer 13 | [机器人的运动范围  LCOF](problems/ji-qi-ren-de-yun-dong-fan-wei-lcof.md) | [机器人的运动范围](problems/ji-qi-ren-de-yun-dong-fan-wei-lcof.md) | ![](./imgs/medium.png) | 2021/04/09 0:09
@@ -337,9 +340,9 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 04 | [二维数组中的查找 LCOF](problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof.md) | [二维数组中的查找](problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof.md) | ![](./imgs/medium.png) | 2021/04/03 19:32
 | 剑指 Offer 07 | [重建二叉树 LCOF](problems/zhong-jian-er-cha-shu-lcof.md) | [重建二叉树](problems/zhong-jian-er-cha-shu-lcof.md) | ![](./imgs/medium.png) | 2021/11/02 18:31
 | 剑指 Offer 39 | [数组中出现次数超过一半的数字  LCOF](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | [数组中出现次数超过一半的数字](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/11/10 20:31
-| 剑指 Offer 40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 | 剑指 Offer 42 | [连续子数组的最大和  LCOF](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | [连续子数组的最大和](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | ![](./imgs/easy.png) | 2021/12/14 19:32
 | 剑指 Offer 51 | [数组中的逆序对  LCOF](problems/shu-zu-zhong-de-ni-xu-dui-lcof.md) | [数组中的逆序对](problems/shu-zu-zhong-de-ni-xu-dui-lcof.md) | ![](./imgs/hard.png) | 2021/12/21 23:38
+| 面试题40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 
 ### 回溯专项 - Backtracking
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
@@ -377,11 +380,12 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 104 | [Maximum Depth of Binary Tree](problems/maximum-depth-of-binary-tree.md) | [二叉树的最大深度](problems/maximum-depth-of-binary-tree.md) | ![](./imgs/easy.png) | 2022/06/10 15:35
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
 | 112 | [Path Sum](problems/path-sum.md) | [路径总和](problems/path-sum.md) | ![](./imgs/easy.png) | 2020/03/23 12:50
+| 114 | [Flatten Binary Tree to Linked List](problems/flatten-binary-tree-to-linked-list.md) | [二叉树展开为链表](problems/flatten-binary-tree-to-linked-list.md) | ![](./imgs/medium.png) | 2022/07/11 15:47
 | 226 | [Invert Binary Tree](problems/invert-binary-tree.md) | [翻转二叉树](problems/invert-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 16:00
 | 230 | [Kth Smallest Element in a BST](problems/kth-smallest-element-in-a-bst.md) | [二叉搜索树中第K小的元素](problems/kth-smallest-element-in-a-bst.md) | ![](./imgs/medium.png) | 2020/03/23 18:14
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/lowest-common-ancestor-of-a-binary-tree.md) | [二叉树的最近公共祖先](problems/lowest-common-ancestor-of-a-binary-tree.md) | ![](./imgs/medium.png) | 2020/03/24 12:06
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
-| 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的满二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
+| 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
 | 965 | [Univalued Binary Tree](problems/univalued-binary-tree.md) | [单值二叉树](problems/univalued-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 14:02
 | 剑指 Offer 07 | [重建二叉树 LCOF](problems/zhong-jian-er-cha-shu-lcof.md) | [重建二叉树](problems/zhong-jian-er-cha-shu-lcof.md) | ![](./imgs/medium.png) | 2021/11/02 18:31
 | 剑指 Offer 26 | [树的子结构  LCOF](problems/shu-de-zi-jie-gou-lcof.md) | [树的子结构](problems/shu-de-zi-jie-gou-lcof.md) | ![](./imgs/medium.png) | 2021/11/05 17:24
@@ -438,6 +442,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 19 | [Remove Nth Node From End of List](problems/remove-nth-node-from-end-of-list.md) | [删除链表的倒数第 N 个结点](problems/remove-nth-node-from-end-of-list.md) | ![](./imgs/medium.png) | 2022/05/02 0:11
 | 21 | [Merge Two Sorted Lists](problems/merge-two-sorted-lists.md) | [合并两个有序链表](problems/merge-two-sorted-lists.md) | ![](./imgs/easy.png) | 2020/03/23 15:12
 | 23 | [Merge k Sorted Lists](problems/merge-k-sorted-lists.md) | [合并K个升序链表](problems/merge-k-sorted-lists.md) | ![](./imgs/hard.png) | 2022/05/03 15:41
+| 114 | [Flatten Binary Tree to Linked List](problems/flatten-binary-tree-to-linked-list.md) | [二叉树展开为链表](problems/flatten-binary-tree-to-linked-list.md) | ![](./imgs/medium.png) | 2022/07/11 15:47
 | 141 | [Linked List Cycle](problems/linked-list-cycle.md) | [环形链表](problems/linked-list-cycle.md) | ![](./imgs/easy.png) | 2021/11/04 21:13
 | 142 | [Linked List Cycle II](problems/linked-list-cycle-ii.md) | [环形链表 II](problems/linked-list-cycle-ii.md) | ![](./imgs/medium.png) | 2021/11/04 21:56
 | 206 | [Reverse Linked List](problems/reverse-linked-list.md) | [反转链表](problems/reverse-linked-list.md) | ![](./imgs/easy.png) | 2020/03/23 12:45
@@ -459,6 +464,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 84 | [Largest Rectangle in Histogram](problems/largest-rectangle-in-histogram.md) | [柱状图中最大的矩形](problems/largest-rectangle-in-histogram.md) | ![](./imgs/hard.png) | 2022/06/06 17:39
 | 85 | [Maximal Rectangle](problems/maximal-rectangle.md) | [最大矩形](problems/maximal-rectangle.md) | ![](./imgs/hard.png) | 2022/06/06 21:03
 | 94 | [Binary Tree Inorder Traversal](problems/binary-tree-inorder-traversal.md) | [二叉树的中序遍历](problems/binary-tree-inorder-traversal.md) | ![](./imgs/easy.png) | 2022/06/06 21:51
+| 114 | [Flatten Binary Tree to Linked List](problems/flatten-binary-tree-to-linked-list.md) | [二叉树展开为链表](problems/flatten-binary-tree-to-linked-list.md) | ![](./imgs/medium.png) | 2022/07/11 15:47
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 剑指 Offer 06 | [从尾到头打印链表 LCOF](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | [从尾到头打印链表](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 23:11
@@ -503,6 +509,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 85 | [Maximal Rectangle](problems/maximal-rectangle.md) | [最大矩形](problems/maximal-rectangle.md) | ![](./imgs/hard.png) | 2022/06/06 21:03
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
+| 121 | [Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock.md) | [买卖股票的最佳时机](problems/best-time-to-buy-and-sell-stock.md) | ![](./imgs/easy.png) | 2022/07/12 13:34
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
@@ -521,7 +528,6 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 29 | [顺时针打印矩阵  LCOF](problems/shun-shi-zhen-da-yin-ju-zhen-lcof.md) | [顺时针打印矩阵](problems/shun-shi-zhen-da-yin-ju-zhen-lcof.md) | ![](./imgs/easy.png) | 2021/11/07 17:13
 | 剑指 Offer 31 | [栈的压入、弹出序列 LCOF](problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof.md) | [栈的压入、弹出序列](problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof.md) | ![](./imgs/medium.png) | 2021/11/07 20:18
 | 剑指 Offer 39 | [数组中出现次数超过一半的数字  LCOF](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | [数组中出现次数超过一半的数字](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/11/10 20:31
-| 剑指 Offer 40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 | 剑指 Offer 42 | [连续子数组的最大和  LCOF](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | [连续子数组的最大和](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | ![](./imgs/easy.png) | 2021/12/14 19:32
 | 剑指 Offer 47 | [礼物的最大价值 LCOF](problems/li-wu-de-zui-da-jie-zhi-lcof.md) | [礼物的最大价值](problems/li-wu-de-zui-da-jie-zhi-lcof.md) | ![](./imgs/medium.png) | 2021/12/18 19:20
 | 剑指 Offer 51 | [数组中的逆序对  LCOF](problems/shu-zu-zhong-de-ni-xu-dui-lcof.md) | [数组中的逆序对](problems/shu-zu-zhong-de-ni-xu-dui-lcof.md) | ![](./imgs/hard.png) | 2021/12/21 23:38
@@ -533,6 +539,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
 | 剑指 Offer 63 | [股票的最大利润  LCOF](problems/gu-piao-de-zui-da-li-run-lcof.md) | [股票的最大利润](problems/gu-piao-de-zui-da-li-run-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 12:45
 | 剑指 Offer 66 | [构建乘积数组 LCOF](problems/gou-jian-cheng-ji-shu-zu-lcof.md) | [构建乘积数组](problems/gou-jian-cheng-ji-shu-zu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:08
+| 面试题40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 
 ### 矩阵专项 - Matrix
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
@@ -554,10 +561,10 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
-| 剑指 Offer 40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 | 剑指 Offer 41 | [数据流中的中位数  LCOF](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | [数据流中的中位数](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/10 14:16
 | 剑指 Offer 49 | [丑数 LCOF](problems/chou-shu-lcof.md) | [丑数](problems/chou-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/20 16:32
 | 剑指 Offer 59 - I | [滑动窗口的最大值 LCOF](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | [滑动窗口的最大值](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | ![](./imgs/hard.png) | 2022/04/23 18:40
+| 面试题40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 
 ### 哈希表专项 - Hash Table
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
@@ -597,10 +604,10 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
 | 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面 LCOF](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | [调整数组顺序使奇数位于偶数前面](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | ![](./imgs/easy.png) | 2021/11/04 12:52
 | 剑指 Offer 39 | [数组中出现次数超过一半的数字  LCOF](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | [数组中出现次数超过一半的数字](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/11/10 20:31
-| 剑指 Offer 40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 | 剑指 Offer 41 | [数据流中的中位数  LCOF](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | [数据流中的中位数](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/10 14:16
 | 剑指 Offer 45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
 | 剑指 Offer 61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
+| 面试题40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 
 ### DFS / BFS
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
