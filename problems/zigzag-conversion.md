@@ -1,5 +1,5 @@
 
-# 6. ZigZag Conversion - Z 字形变换
+# 6. Zigzag Conversion - Z 字形变换
 
 ## Tags - 题目标签
 

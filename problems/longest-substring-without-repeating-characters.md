@@ -120,6 +120,42 @@ function lengthOfLongestSubstring(s: string): number {
 ## My Notes - 我的笔记
 
 
+和剑指 offer 中的某道题一样，也可以用**动态规划+哈希表**做：
+
+```typescript
+function lengthOfLongestSubstring(s: string): number {
+  const len = s.length;
+  if (len <= 2) {
+    if (len === 2 && s[0] === s[1]) {
+      return 1;
+    } else {
+      return len;
+    }
+  }
+  const dp = new Array(len).fill(0);
+  dp[0] = 1, dp[1] = s[0] === s[1] ? 1 : 2;
+  const nearestHash = new Map<string, number>();
+  nearestHash.set(s[0], 0);
+  nearestHash.set(s[1], 1);
+  for (let i = 2; i < len; i++) {
+    const nearestSameLetterPos = nearestHash.get(s[i]) ?? -1;
+    if (nearestSameLetterPos !== -1) {
+      if (i - nearestSameLetterPos > dp[i-1]) {
+        dp[i] = dp[i-1] + 1;
+      } else {
+        dp[i] = i - nearestSameLetterPos;
+      }
+    } else {
+      dp[i] = dp[i-1] + 1;
+    }
+    nearestHash.set(s[i], i);
+  }
+  return Math.max(...dp);
+};
+```
+
+
+
 # 滑动窗口
 
 令 window 为一个滑动窗口，window 用字符串来表达。最初为`''`。
@@ -162,42 +198,6 @@ function lengthOfLongestSubstring(s: string): number {
   max = Math.max(window.length, max);
 
   return max;
-};
-```
-
-
-
-和剑指 offer 中的某道题一样，也可以用**动态规划+哈希表**做：
-
-```typescript
-function lengthOfLongestSubstring(s: string): number {
-  const len = s.length;
-  if (len <= 2) {
-    if (len === 2 && s[0] === s[1]) {
-      return 1;
-    } else {
-      return len;
-    }
-  }
-  const dp = new Array(len).fill(0);
-  dp[0] = 1, dp[1] = s[0] === s[1] ? 1 : 2;
-  const nearestHash = new Map<string, number>();
-  nearestHash.set(s[0], 0);
-  nearestHash.set(s[1], 1);
-  for (let i = 2; i < len; i++) {
-    const nearestSameLetterPos = nearestHash.get(s[i]) ?? -1;
-    if (nearestSameLetterPos !== -1) {
-      if (i - nearestSameLetterPos > dp[i-1]) {
-        dp[i] = dp[i-1] + 1;
-      } else {
-        dp[i] = i - nearestSameLetterPos;
-      }
-    } else {
-      dp[i] = dp[i-1] + 1;
-    }
-    nearestHash.set(s[i], i);
-  }
-  return Math.max(...dp);
 };
 ```
 

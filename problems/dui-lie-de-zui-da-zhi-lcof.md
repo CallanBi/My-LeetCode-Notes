@@ -1,5 +1,5 @@
 
-# 剑指 Offer 59 - II. 队列的最大值 LCOF - 队列的最大值
+# 面试题59 - II. 队列的最大值 LCOF - 队列的最大值
 
 ## Tags - 题目标签
 
@@ -10,6 +10,7 @@
 
 ### EN:
 <p>English description is not available for the problem. Please switch to Chinese.</p>
+
 
 ### ZH-CN:
 <p>请定义一个队列并实现函数 <code>max_value</code> 得到队列里的最大值，要求函数<code>max_value</code>、<code>push_back</code> 和 <code>pop_front</code> 的<strong>均摊</strong>时间复杂度都是O(1)。</p>

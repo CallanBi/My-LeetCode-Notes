@@ -52,7 +52,8 @@ Since the largest window of s only has one &#39;a&#39;, return empty string.
 </ul>
 
 <p>&nbsp;</p>
-<strong>Follow up:</strong> Could you find an algorithm that runs in <code>O(m + n)</code> time?
+<p><strong>Follow up:</strong> Could you find an algorithm that runs in <code>O(m + n)</code> time?</p>
+
 
 ### ZH-CN:
 <p>给你一个字符串 <code>s</code> 、一个字符串 <code>t</code> 。返回 <code>s</code> 中涵盖 <code>t</code> 所有字符的最小子串。如果 <code>s</code> 中不存在涵盖 <code>t</code> 所有字符的子串，则返回空字符串 <code>""</code> 。</p>
