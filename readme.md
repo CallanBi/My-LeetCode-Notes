@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/149/2759-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/150/2760-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-58-green.svg">
-  <img src="https://img.shields.io/badge/Medium-73-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-74-orange.svg">
   <img src="https://img.shields.io/badge/Hard-18-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/09/01 21:53</b>
+  <b>Last updated: 2022/09/03 22:47</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 128 | [Longest Consecutive Sequence](problems/longest-consecutive-sequence.md) | [最长连续序列](problems/longest-consecutive-sequence.md) | ![](./imgs/medium.png) | 2022/09/03 19:05
 | 124 | [Binary Tree Maximum Path Sum](problems/binary-tree-maximum-path-sum.md) | [二叉树中的最大路径和](problems/binary-tree-maximum-path-sum.md) | ![](./imgs/hard.png) | 2022/09/01 21:09
 | 121 | [Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock.md) | [买卖股票的最佳时机](problems/best-time-to-buy-and-sell-stock.md) | ![](./imgs/easy.png) | 2022/07/12 13:34
 | 114 | [Flatten Binary Tree to Linked List](problems/flatten-binary-tree-to-linked-list.md) | [二叉树展开为链表](problems/flatten-binary-tree-to-linked-list.md) | ![](./imgs/medium.png) | 2022/07/11 15:47
@@ -513,6 +514,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
 | 121 | [Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock.md) | [买卖股票的最佳时机](problems/best-time-to-buy-and-sell-stock.md) | ![](./imgs/easy.png) | 2022/07/12 13:34
+| 128 | [Longest Consecutive Sequence](problems/longest-consecutive-sequence.md) | [最长连续序列](problems/longest-consecutive-sequence.md) | ![](./imgs/medium.png) | 2022/09/03 19:05
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
@@ -578,6 +580,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
 | 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
+| 128 | [Longest Consecutive Sequence](problems/longest-consecutive-sequence.md) | [最长连续序列](problems/longest-consecutive-sequence.md) | ![](./imgs/medium.png) | 2022/09/03 19:05
 | 141 | [Linked List Cycle](problems/linked-list-cycle.md) | [环形链表](problems/linked-list-cycle.md) | ![](./imgs/easy.png) | 2021/11/04 21:13
 | 142 | [Linked List Cycle II](problems/linked-list-cycle-ii.md) | [环形链表 II](problems/linked-list-cycle-ii.md) | ![](./imgs/medium.png) | 2021/11/04 21:56
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
