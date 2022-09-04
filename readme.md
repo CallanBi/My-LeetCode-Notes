@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/150/2760-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/151/2764-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-58-green.svg">
-  <img src="https://img.shields.io/badge/Medium-74-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-75-orange.svg">
   <img src="https://img.shields.io/badge/Hard-18-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/09/03 22:47</b>
+  <b>Last updated: 2022/09/04 11:34</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 687 | [Longest Univalue Path](problems/longest-univalue-path.md) | [最长同值路径](problems/longest-univalue-path.md) | ![](./imgs/medium.png) | 2022/09/04 11:31
 | 128 | [Longest Consecutive Sequence](problems/longest-consecutive-sequence.md) | [最长连续序列](problems/longest-consecutive-sequence.md) | ![](./imgs/medium.png) | 2022/09/03 19:05
 | 124 | [Binary Tree Maximum Path Sum](problems/binary-tree-maximum-path-sum.md) | [二叉树中的最大路径和](problems/binary-tree-maximum-path-sum.md) | ![](./imgs/hard.png) | 2022/09/01 21:09
 | 121 | [Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock.md) | [买卖股票的最佳时机](problems/best-time-to-buy-and-sell-stock.md) | ![](./imgs/easy.png) | 2022/07/12 13:34
@@ -389,6 +390,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 230 | [Kth Smallest Element in a BST](problems/kth-smallest-element-in-a-bst.md) | [二叉搜索树中第K小的元素](problems/kth-smallest-element-in-a-bst.md) | ![](./imgs/medium.png) | 2020/03/23 18:14
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/lowest-common-ancestor-of-a-binary-tree.md) | [二叉树的最近公共祖先](problems/lowest-common-ancestor-of-a-binary-tree.md) | ![](./imgs/medium.png) | 2020/03/24 12:06
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
+| 687 | [Longest Univalue Path](problems/longest-univalue-path.md) | [最长同值路径](problems/longest-univalue-path.md) | ![](./imgs/medium.png) | 2022/09/04 11:31
 | 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
 | 965 | [Univalued Binary Tree](problems/univalued-binary-tree.md) | [单值二叉树](problems/univalued-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 14:02
 | 剑指 Offer 07 | [重建二叉树 LCOF](problems/zhong-jian-er-cha-shu-lcof.md) | [重建二叉树](problems/zhong-jian-er-cha-shu-lcof.md) | ![](./imgs/medium.png) | 2021/11/02 18:31
