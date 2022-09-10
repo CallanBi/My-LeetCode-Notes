@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/152/2768-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/153/2769-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-59-green.svg">
-  <img src="https://img.shields.io/badge/Medium-75-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-76-orange.svg">
   <img src="https://img.shields.io/badge/Hard-18-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/09/07 23:46</b>
+  <b>Last updated: 2022/09/10 11:17</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
 | 136 | [Single Number](problems/single-number.md) | [只出现一次的数字](problems/single-number.md) | ![](./imgs/easy.png) | 2022/09/04 17:08
 | 687 | [Longest Univalue Path](problems/longest-univalue-path.md) | [最长同值路径](problems/longest-univalue-path.md) | ![](./imgs/medium.png) | 2022/09/04 11:31
 | 128 | [Longest Consecutive Sequence](problems/longest-consecutive-sequence.md) | [最长连续序列](problems/longest-consecutive-sequence.md) | ![](./imgs/medium.png) | 2022/09/03 19:05
@@ -282,6 +283,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 96 | [Unique Binary Search Trees](problems/unique-binary-search-trees.md) | [不同的二叉搜索树](problems/unique-binary-search-trees.md) | ![](./imgs/medium.png) | 2022/06/07 13:01
 | 121 | [Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock.md) | [买卖股票的最佳时机](problems/best-time-to-buy-and-sell-stock.md) | ![](./imgs/easy.png) | 2022/07/12 13:34
 | 124 | [Binary Tree Maximum Path Sum](problems/binary-tree-maximum-path-sum.md) | [二叉树中的最大路径和](problems/binary-tree-maximum-path-sum.md) | ![](./imgs/hard.png) | 2022/09/01 21:09
+| 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
 | 233 | [Number of Digit One](problems/number-of-digit-one.md) | [数字 1 的个数](problems/number-of-digit-one.md) | ![](./imgs/hard.png) | 2022/04/11 16:30
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 343 | [Integer Break](problems/integer-break.md) | [整数拆分](problems/integer-break.md) | ![](./imgs/medium.png) | 2022/04/10 21:16
@@ -426,6 +428,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 49 | [Group Anagrams](problems/group-anagrams.md) | [字母异位词分组](problems/group-anagrams.md) | ![](./imgs/medium.png) | 2022/05/11 19:25
 | 72 | [Edit Distance](problems/edit-distance.md) | [编辑距离](problems/edit-distance.md) | ![](./imgs/hard.png) | 2022/05/29 23:44
 | 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
+| 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
 | 415 | [Add Strings](problems/add-strings.md) | [字符串相加](problems/add-strings.md) | ![](./imgs/easy.png) | 2020/03/23 17:40
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 806 | [Number of Lines To Write String](problems/number-of-lines-to-write-string.md) | [写字符串需要的行数](problems/number-of-lines-to-write-string.md) | ![](./imgs/easy.png) | 2022/04/12 11:09
@@ -585,6 +588,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
 | 128 | [Longest Consecutive Sequence](problems/longest-consecutive-sequence.md) | [最长连续序列](problems/longest-consecutive-sequence.md) | ![](./imgs/medium.png) | 2022/09/03 19:05
+| 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
 | 141 | [Linked List Cycle](problems/linked-list-cycle.md) | [环形链表](problems/linked-list-cycle.md) | ![](./imgs/easy.png) | 2021/11/04 21:13
 | 142 | [Linked List Cycle II](problems/linked-list-cycle-ii.md) | [环形链表 II](problems/linked-list-cycle-ii.md) | ![](./imgs/medium.png) | 2021/11/04 21:56
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
