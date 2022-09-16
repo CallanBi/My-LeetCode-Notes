@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/153/2769-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/154/2774-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-59-green.svg">
-  <img src="https://img.shields.io/badge/Medium-76-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-77-orange.svg">
   <img src="https://img.shields.io/badge/Hard-18-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/09/10 11:17</b>
+  <b>Last updated: 2022/09/16 11:13</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 146 | [LRU Cache](problems/lru-cache.md) | [LRU 缓存](problems/lru-cache.md) | ![](./imgs/medium.png) | 2022/09/16 10:54
 | 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
 | 136 | [Single Number](problems/single-number.md) | [只出现一次的数字](problems/single-number.md) | ![](./imgs/easy.png) | 2022/09/04 17:08
 | 687 | [Longest Univalue Path](problems/longest-univalue-path.md) | [最长同值路径](problems/longest-univalue-path.md) | ![](./imgs/medium.png) | 2022/09/04 11:31
@@ -455,6 +456,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 114 | [Flatten Binary Tree to Linked List](problems/flatten-binary-tree-to-linked-list.md) | [二叉树展开为链表](problems/flatten-binary-tree-to-linked-list.md) | ![](./imgs/medium.png) | 2022/07/11 15:47
 | 141 | [Linked List Cycle](problems/linked-list-cycle.md) | [环形链表](problems/linked-list-cycle.md) | ![](./imgs/easy.png) | 2021/11/04 21:13
 | 142 | [Linked List Cycle II](problems/linked-list-cycle-ii.md) | [环形链表 II](problems/linked-list-cycle-ii.md) | ![](./imgs/medium.png) | 2021/11/04 21:56
+| 146 | [LRU Cache](problems/lru-cache.md) | [LRU 缓存](problems/lru-cache.md) | ![](./imgs/medium.png) | 2022/09/16 10:54
 | 206 | [Reverse Linked List](problems/reverse-linked-list.md) | [反转链表](problems/reverse-linked-list.md) | ![](./imgs/easy.png) | 2020/03/23 12:45
 | 剑指 Offer 06 | [从尾到头打印链表 LCOF](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | [从尾到头打印链表](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 23:11
 | 剑指 Offer 18 | [删除链表的节点 LCOF](problems/shan-chu-lian-biao-de-jie-dian-lcof.md) | [删除链表的节点](problems/shan-chu-lian-biao-de-jie-dian-lcof.md) | ![](./imgs/easy.png) | 2021/05/01 16:41
@@ -591,6 +593,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
 | 141 | [Linked List Cycle](problems/linked-list-cycle.md) | [环形链表](problems/linked-list-cycle.md) | ![](./imgs/easy.png) | 2021/11/04 21:13
 | 142 | [Linked List Cycle II](problems/linked-list-cycle-ii.md) | [环形链表 II](problems/linked-list-cycle-ii.md) | ![](./imgs/medium.png) | 2021/11/04 21:56
+| 146 | [LRU Cache](problems/lru-cache.md) | [LRU 缓存](problems/lru-cache.md) | ![](./imgs/medium.png) | 2022/09/16 10:54
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
