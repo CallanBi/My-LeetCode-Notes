@@ -11,6 +11,8 @@
 ### EN:
 <p>Given a string <code>s</code>, return <em>the longest palindromic substring</em> in <code>s</code>.</p>
 
+<p>A string is called a palindrome string if the reverse of that string is the same as the original string.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
