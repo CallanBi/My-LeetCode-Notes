@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/155/2788-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/155/2797-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-59-green.svg">
   <img src="https://img.shields.io/badge/Medium-78-orange.svg">
   <img src="https://img.shields.io/badge/Hard-18-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/09/25 10:13</b>
+  <b>Last updated: 2022/10/02 11:28</b>
   <br>
 </p>
 
