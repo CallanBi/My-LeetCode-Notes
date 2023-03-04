@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/158/2954-Solved/Total-blue.svg">
-  <img src="https://img.shields.io/badge/Easy-60-green.svg">
+  <img src="https://img.shields.io/badge/159/2954-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/Easy-61-green.svg">
   <img src="https://img.shields.io/badge/Medium-80-orange.svg">
   <img src="https://img.shields.io/badge/Hard-18-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/03/04 22:38</b>
+  <b>Last updated: 2023/03/04 23:07</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 169 | [Majority Element](problems/majority-element.md) | [多数元素](problems/majority-element.md) | ![](./imgs/easy.png) | 2023/03/04 23:05
 | 160 | [Intersection of Two Linked Lists](problems/intersection-of-two-linked-lists.md) | [相交链表](problems/intersection-of-two-linked-lists.md) | ![](./imgs/easy.png) | 2023/03/04 22:36
 | 155 | [Min Stack](problems/min-stack.md) | [最小栈](problems/min-stack.md) | ![](./imgs/medium.png) | 2023/03/04 22:03
 | 152 | [Maximum Product Subarray](problems/maximum-product-subarray.md) | [乘积最大子数组](problems/maximum-product-subarray.md) | ![](./imgs/medium.png) | 2023/01/09 21:55
@@ -350,6 +351,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 53 | [Maximum Subarray](problems/maximum-subarray.md) | [最大子数组和](problems/maximum-subarray.md) | ![](./imgs/medium.png) | 2022/04/10 22:40
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | [从前序与中序遍历序列构造二叉树](problems/construct-binary-tree-from-preorder-and-inorder-traversal.md) | ![](./imgs/medium.png) | 2022/06/10 17:09
 | 148 | [Sort List](problems/sort-list.md) | [排序链表](problems/sort-list.md) | ![](./imgs/medium.png) | 2022/09/20 21:36
+| 169 | [Majority Element](problems/majority-element.md) | [多数元素](problems/majority-element.md) | ![](./imgs/easy.png) | 2023/03/04 23:05
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
@@ -538,6 +540,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
 | 152 | [Maximum Product Subarray](problems/maximum-product-subarray.md) | [乘积最大子数组](problems/maximum-product-subarray.md) | ![](./imgs/medium.png) | 2023/01/09 21:55
+| 169 | [Majority Element](problems/majority-element.md) | [多数元素](problems/majority-element.md) | ![](./imgs/easy.png) | 2023/03/04 23:05
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
@@ -608,6 +611,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 142 | [Linked List Cycle II](problems/linked-list-cycle-ii.md) | [环形链表 II](problems/linked-list-cycle-ii.md) | ![](./imgs/medium.png) | 2021/11/04 21:56
 | 146 | [LRU Cache](problems/lru-cache.md) | [LRU 缓存](problems/lru-cache.md) | ![](./imgs/medium.png) | 2022/09/16 10:54
 | 160 | [Intersection of Two Linked Lists](problems/intersection-of-two-linked-lists.md) | [相交链表](problems/intersection-of-two-linked-lists.md) | ![](./imgs/easy.png) | 2023/03/04 22:36
+| 169 | [Majority Element](problems/majority-element.md) | [多数元素](problems/majority-element.md) | ![](./imgs/easy.png) | 2023/03/04 23:05
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
@@ -632,6 +636,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 75 | [Sort Colors](problems/sort-colors.md) | [颜色分类](problems/sort-colors.md) | ![](./imgs/medium.png) | 2022/05/30 14:57
 | 88 | [Merge Sorted Array](problems/merge-sorted-array.md) | [合并两个有序数组](problems/merge-sorted-array.md) | ![](./imgs/easy.png) | 2020/03/23 15:40
 | 148 | [Sort List](problems/sort-list.md) | [排序链表](problems/sort-list.md) | ![](./imgs/medium.png) | 2022/09/20 21:36
+| 169 | [Majority Element](problems/majority-element.md) | [多数元素](problems/majority-element.md) | ![](./imgs/easy.png) | 2023/03/04 23:05
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
 | 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面 LCOF](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | [调整数组顺序使奇数位于偶数前面](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | ![](./imgs/easy.png) | 2021/11/04 12:52
