@@ -9,14 +9,12 @@
 ## Description - 题目描述
 
 ### EN:
-<p>Given two strings <code>s</code> and <code>t</code> of lengths <code>m</code> and <code>n</code> respectively, return <em>the <strong>minimum window substring</strong> of </em><code>s</code><em> such that every character in </em><code>t</code><em> (<strong>including duplicates</strong>) is included in the window. If there is no such substring</em><em>, return the empty string </em><code>&quot;&quot;</code><em>.</em></p>
+<p>Given two strings <code>s</code> and <code>t</code> of lengths <code>m</code> and <code>n</code> respectively, return <em>the <strong>minimum window</strong></em> <span data-keyword="substring-nonempty"><strong><em>substring</em></strong></span><em> of </em><code>s</code><em> such that every character in </em><code>t</code><em> (<strong>including duplicates</strong>) is included in the window</em>. If there is no such substring, return <em>the empty string </em><code>&quot;&quot;</code>.</p>
 
 <p>The testcases will be generated such that the answer is <strong>unique</strong>.</p>
 
-<p>A <strong>substring</strong> is a contiguous sequence of characters within the string.</p>
-
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;ADOBECODEBANC&quot;, t = &quot;ABC&quot;
@@ -24,7 +22,7 @@
 <strong>Explanation:</strong> The minimum window substring &quot;BANC&quot; includes &#39;A&#39;, &#39;B&#39;, and &#39;C&#39; from string t.
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;a&quot;, t = &quot;a&quot;
@@ -32,7 +30,7 @@
 <strong>Explanation:</strong> The entire string s is the minimum window.
 </pre>
 
-<p><strong>Example 3:</strong></p>
+<p><strong class="example">Example 3:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;a&quot;, t = &quot;aa&quot;
@@ -47,7 +45,7 @@ Since the largest window of s only has one &#39;a&#39;, return empty string.
 <ul>
 	<li><code>m == s.length</code></li>
 	<li><code>n == t.length</code></li>
-	<li><code>1 &lt;= m, n&nbsp;&lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= m, n &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> and <code>t</code> consist of uppercase and lowercase English letters.</li>
 </ul>
 
@@ -58,7 +56,7 @@ Since the largest window of s only has one &#39;a&#39;, return empty string.
 ### ZH-CN:
 <p>给你一个字符串 <code>s</code> 、一个字符串 <code>t</code> 。返回 <code>s</code> 中涵盖 <code>t</code> 所有字符的最小子串。如果 <code>s</code> 中不存在涵盖 <code>t</code> 所有字符的子串，则返回空字符串 <code>""</code> 。</p>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <p><strong>注意：</strong></p>
 
@@ -67,13 +65,14 @@ Since the largest window of s only has one &#39;a&#39;, return empty string.
 	<li>如果 <code>s</code> 中存在这样的子串，我们保证它是唯一的答案。</li>
 </ul>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <p><strong>示例 1：</strong></p>
 
 <pre>
 <strong>输入：</strong>s = "ADOBECODEBANC", t = "ABC"
 <strong>输出：</strong>"BANC"
+<strong>解释：</strong>最小覆盖子串 "BANC" 包含来自字符串 t 的 'A'、'B' 和 'C'。
 </pre>
 
 <p><strong>示例 2：</strong></p>
@@ -81,6 +80,7 @@ Since the largest window of s only has one &#39;a&#39;, return empty string.
 <pre>
 <strong>输入：</strong>s = "a", t = "a"
 <strong>输出：</strong>"a"
+<strong>解释：</strong>整个字符串 s 是最小覆盖子串。
 </pre>
 
 <p><strong>示例 3:</strong></p>
@@ -91,17 +91,19 @@ Since the largest window of s only has one &#39;a&#39;, return empty string.
 <strong>解释:</strong> t 中两个字符 'a' 均应包含在 s 的子串中，
 因此没有符合条件的子字符串，返回空字符串。</pre>
 
-<p> </p>
+<p>&nbsp;</p>
 
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= s.length, t.length <= 10<sup>5</sup></code></li>
+	<li><code><sup>m == s.length</sup></code></li>
+	<li><code><sup>n == t.length</sup></code></li>
+	<li><code>1 &lt;= m, n &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> 和 <code>t</code> 由英文字母组成</li>
 </ul>
 
-<p> </p>
-<strong>进阶：</strong>你能设计一个在 <code>o(n)</code> 时间内解决此问题的算法吗？
+<p>&nbsp;</p>
+<strong>进阶：</strong>你能设计一个在 <code>o(m+n)</code> 时间内解决此问题的算法吗？
 
 
 ## Link - 题目链接

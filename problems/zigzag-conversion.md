@@ -1,5 +1,5 @@
 
-# 6. Zigzag Conversion - Z 字形变换
+# 6. Zigzag Conversion - N 字形变换
 
 ## Tags - 题目标签
 
@@ -26,14 +26,14 @@ string convert(string s, int numRows);
 </pre>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;PAYPALISHIRING&quot;, numRows = 3
 <strong>Output:</strong> &quot;PAHNAPLSIIGYIR&quot;
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;PAYPALISHIRING&quot;, numRows = 4
@@ -45,7 +45,7 @@ Y A   H R
 P     I
 </pre>
 
-<p><strong>Example 3:</strong></p>
+<p><strong class="example">Example 3:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;A&quot;, numRows = 1

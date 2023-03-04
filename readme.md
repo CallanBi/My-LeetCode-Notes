@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/155/2797-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/157/2954-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-59-green.svg">
-  <img src="https://img.shields.io/badge/Medium-78-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-80-orange.svg">
   <img src="https://img.shields.io/badge/Hard-18-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/10/02 11:28</b>
+  <b>Last updated: 2023/03/04 22:08</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 155 | [Min Stack](problems/min-stack.md) | [最小栈](problems/min-stack.md) | ![](./imgs/medium.png) | 2023/03/04 22:03
+| 152 | [Maximum Product Subarray](problems/maximum-product-subarray.md) | [乘积最大子数组](problems/maximum-product-subarray.md) | ![](./imgs/medium.png) | 2023/01/09 21:55
 | 148 | [Sort List](problems/sort-list.md) | [排序链表](problems/sort-list.md) | ![](./imgs/medium.png) | 2022/09/20 21:36
 | 146 | [LRU Cache](problems/lru-cache.md) | [LRU 缓存](problems/lru-cache.md) | ![](./imgs/medium.png) | 2022/09/16 10:54
 | 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
@@ -72,13 +74,13 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 19 | [正则表达式匹配 LCOF](problems/zheng-ze-biao-da-shi-pi-pei-lcof.md) | [正则表达式匹配](problems/zheng-ze-biao-da-shi-pi-pei-lcof.md) | ![](./imgs/hard.png) | 2022/04/30 23:18
 | 剑指 Offer 68 - II | [二叉树的最近公共祖先 LCOF](problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | [二叉树的最近公共祖先](problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 17:59
 | 剑指 Offer 68 - I | [二叉搜索树的最近公共祖先 LCOF](problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | [二叉搜索树的最近公共祖先](problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 17:47
-| 剑指 Offer 67 | [把字符串转换成整数 LCOF](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | [把字符串转换成整数](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:50
+| 面试题67 | [把字符串转换成整数 LCOF](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | [把字符串转换成整数](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:50
 | 剑指 Offer 66 | [构建乘积数组 LCOF](problems/gou-jian-cheng-ji-shu-zu-lcof.md) | [构建乘积数组](problems/gou-jian-cheng-ji-shu-zu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:08
 | 剑指 Offer 65 | [不用加减乘除做加法 LCOF](problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.md) | [不用加减乘除做加法](problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 13:24
 | 剑指 Offer 64 | [求1+2+…+n LCOF](problems/qiu-12n-lcof.md) | [求1+2+…+n](problems/qiu-12n-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 12:53
 | 剑指 Offer 63 | [股票的最大利润  LCOF](problems/gu-piao-de-zui-da-li-run-lcof.md) | [股票的最大利润](problems/gu-piao-de-zui-da-li-run-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 12:45
 | 剑指 Offer 62 | [圆圈中最后剩下的数字 LCOF](problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.md) | [圆圈中最后剩下的数字](problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 12:18
-| 剑指 Offer 61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
+| 面试题61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
 | 剑指 Offer 60 | [n个骰子的点数  LCOF](problems/nge-tou-zi-de-dian-shu-lcof.md) | [n个骰子的点数](problems/nge-tou-zi-de-dian-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/26 19:14
 | 面试题59 - II | [队列的最大值 LCOF](problems/dui-lie-de-zui-da-zhi-lcof.md) | [队列的最大值](problems/dui-lie-de-zui-da-zhi-lcof.md) | ![](./imgs/medium.png) | 2022/04/23 19:54
 | 剑指 Offer 59 - I | [滑动窗口的最大值 LCOF](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | [滑动窗口的最大值](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | ![](./imgs/hard.png) | 2022/04/23 18:40
@@ -113,7 +115,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 48 | [最长不含重复字符的子字符串 LCOF](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | [最长不含重复字符的子字符串](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/12/19 15:22
 | 剑指 Offer 47 | [礼物的最大价值 LCOF](problems/li-wu-de-zui-da-jie-zhi-lcof.md) | [礼物的最大价值](problems/li-wu-de-zui-da-jie-zhi-lcof.md) | ![](./imgs/medium.png) | 2021/12/18 19:20
 | 剑指 Offer 46 | [把数字翻译成字符串 LCOF](problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.md) | [把数字翻译成字符串](problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/12/18 14:57
-| 剑指 Offer 45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
+| 面试题45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
 | 剑指 Offer 44 | [数字序列中某一位的数字  LCOF](problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.md) | [数字序列中某一位的数字](problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 20:58
 | 剑指 Offer 43 | [1～n整数中1出现的次数  LCOF](problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md) | [1～n 整数中 1 出现的次数](problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/16 16:25
 | 剑指 Offer 42 | [连续子数组的最大和  LCOF](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | [连续子数组的最大和](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | ![](./imgs/easy.png) | 2021/12/14 19:32
@@ -179,7 +181,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 100 | [Same Tree](problems/same-tree.md) | [相同的树](problems/same-tree.md) | ![](./imgs/easy.png) | 2018/12/08 19:21
 | 9 | [Palindrome Number](problems/palindrome-number.md) | [回文数](problems/palindrome-number.md) | ![](./imgs/easy.png) | 2018/11/20 10:24
 | 7 | [Reverse Integer](problems/reverse-integer.md) | [整数反转](problems/reverse-integer.md) | ![](./imgs/medium.png) | 2018/11/20 9:31
-| 6 | [Zigzag Conversion](problems/zigzag-conversion.md) | [Z 字形变换](problems/zigzag-conversion.md) | ![](./imgs/medium.png) | 2018/11/19 22:56
+| 6 | [Zigzag Conversion](problems/zigzag-conversion.md) | [N 字形变换](problems/zigzag-conversion.md) | ![](./imgs/medium.png) | 2018/11/19 22:56
 | 5 | [Longest Palindromic Substring](problems/longest-palindromic-substring.md) | [最长回文子串](problems/longest-palindromic-substring.md) | ![](./imgs/medium.png) | 2018/11/17 16:15
 | 4 | [Median of Two Sorted Arrays](problems/median-of-two-sorted-arrays.md) | [寻找两个正序数组的中位数](problems/median-of-two-sorted-arrays.md) | ![](./imgs/hard.png) | 2018/11/12 18:01
 | 2 | [Add Two Numbers](problems/add-two-numbers.md) | [两数相加](problems/add-two-numbers.md) | ![](./imgs/medium.png) | 2018/11/10 9:53
@@ -232,7 +234,6 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 42 | [连续子数组的最大和  LCOF](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | [连续子数组的最大和](problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof.md) | ![](./imgs/easy.png) | 2021/12/14 19:32
 | 剑指 Offer 43 | [1～n整数中1出现的次数  LCOF](problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md) | [1～n 整数中 1 出现的次数](problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/16 16:25
 | 剑指 Offer 44 | [数字序列中某一位的数字  LCOF](problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.md) | [数字序列中某一位的数字](problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 20:58
-| 剑指 Offer 45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
 | 剑指 Offer 46 | [把数字翻译成字符串 LCOF](problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.md) | [把数字翻译成字符串](problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/12/18 14:57
 | 剑指 Offer 47 | [礼物的最大价值 LCOF](problems/li-wu-de-zui-da-jie-zhi-lcof.md) | [礼物的最大价值](problems/li-wu-de-zui-da-jie-zhi-lcof.md) | ![](./imgs/medium.png) | 2021/12/18 19:20
 | 剑指 Offer 48 | [最长不含重复字符的子字符串 LCOF](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | [最长不含重复字符的子字符串](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/12/19 15:22
@@ -253,17 +254,18 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 58 - II | [左旋转字符串 LCOF](problems/zuo-xuan-zhuan-zi-fu-chuan-lcof.md) | [左旋转字符串](problems/zuo-xuan-zhuan-zi-fu-chuan-lcof.md) | ![](./imgs/easy.png) | 2022/04/23 16:50
 | 剑指 Offer 59 - I | [滑动窗口的最大值 LCOF](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | [滑动窗口的最大值](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | ![](./imgs/hard.png) | 2022/04/23 18:40
 | 剑指 Offer 60 | [n个骰子的点数  LCOF](problems/nge-tou-zi-de-dian-shu-lcof.md) | [n个骰子的点数](problems/nge-tou-zi-de-dian-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/26 19:14
-| 剑指 Offer 61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
 | 剑指 Offer 62 | [圆圈中最后剩下的数字 LCOF](problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.md) | [圆圈中最后剩下的数字](problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 12:18
 | 剑指 Offer 63 | [股票的最大利润  LCOF](problems/gu-piao-de-zui-da-li-run-lcof.md) | [股票的最大利润](problems/gu-piao-de-zui-da-li-run-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 12:45
 | 剑指 Offer 64 | [求1+2+…+n LCOF](problems/qiu-12n-lcof.md) | [求1+2+…+n](problems/qiu-12n-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 12:53
 | 剑指 Offer 65 | [不用加减乘除做加法 LCOF](problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.md) | [不用加减乘除做加法](problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 13:24
 | 剑指 Offer 66 | [构建乘积数组 LCOF](problems/gou-jian-cheng-ji-shu-zu-lcof.md) | [构建乘积数组](problems/gou-jian-cheng-ji-shu-zu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:08
-| 剑指 Offer 67 | [把字符串转换成整数 LCOF](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | [把字符串转换成整数](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:50
 | 剑指 Offer 68 - I | [二叉搜索树的最近公共祖先 LCOF](problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | [二叉搜索树的最近公共祖先](problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 17:47
 | 剑指 Offer 68 - II | [二叉树的最近公共祖先 LCOF](problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | [二叉树的最近公共祖先](problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.md) | ![](./imgs/easy.png) | 2022/04/30 17:59
 | 面试题13 | [机器人的运动范围  LCOF](problems/ji-qi-ren-de-yun-dong-fan-wei-lcof.md) | [机器人的运动范围](problems/ji-qi-ren-de-yun-dong-fan-wei-lcof.md) | ![](./imgs/medium.png) | 2021/04/09 0:09
+| 面试题45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
 | 面试题59 - II | [队列的最大值 LCOF](problems/dui-lie-de-zui-da-zhi-lcof.md) | [队列的最大值](problems/dui-lie-de-zui-da-zhi-lcof.md) | ![](./imgs/medium.png) | 2022/04/23 19:54
+| 面试题61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
+| 面试题67 | [把字符串转换成整数 LCOF](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | [把字符串转换成整数](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:50
 
 ## 技巧 - Skills
 
@@ -286,6 +288,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 121 | [Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock.md) | [买卖股票的最佳时机](problems/best-time-to-buy-and-sell-stock.md) | ![](./imgs/easy.png) | 2022/07/12 13:34
 | 124 | [Binary Tree Maximum Path Sum](problems/binary-tree-maximum-path-sum.md) | [二叉树中的最大路径和](problems/binary-tree-maximum-path-sum.md) | ![](./imgs/hard.png) | 2022/09/01 21:09
 | 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
+| 152 | [Maximum Product Subarray](problems/maximum-product-subarray.md) | [乘积最大子数组](problems/maximum-product-subarray.md) | ![](./imgs/medium.png) | 2023/01/09 21:55
 | 233 | [Number of Digit One](problems/number-of-digit-one.md) | [数字 1 的个数](problems/number-of-digit-one.md) | ![](./imgs/hard.png) | 2022/04/11 16:30
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 343 | [Integer Break](problems/integer-break.md) | [整数拆分](problems/integer-break.md) | ![](./imgs/medium.png) | 2022/04/10 21:16
@@ -374,7 +377,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 |:---:|:-----:|:-----:|:----------:|:----------:|
 | 11 | [Container With Most Water](problems/container-with-most-water.md) | [盛最多水的容器](problems/container-with-most-water.md) | ![](./imgs/medium.png) | 2022/04/12 12:19
 | 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
-| 剑指 Offer 45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
+| 面试题45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
 
 
 ## 数据结构 - Data Structure
@@ -422,7 +425,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 |:---:|:-----:|:-----:|:----------:|:----------:|
 | 3 | [Longest Substring Without Repeating Characters](problems/longest-substring-without-repeating-characters.md) | [无重复字符的最长子串](problems/longest-substring-without-repeating-characters.md) | ![](./imgs/medium.png) | 2022/03/31 19:30
 | 5 | [Longest Palindromic Substring](problems/longest-palindromic-substring.md) | [最长回文子串](problems/longest-palindromic-substring.md) | ![](./imgs/medium.png) | 2018/11/17 16:15
-| 6 | [Zigzag Conversion](problems/zigzag-conversion.md) | [Z 字形变换](problems/zigzag-conversion.md) | ![](./imgs/medium.png) | 2018/11/19 22:56
+| 6 | [Zigzag Conversion](problems/zigzag-conversion.md) | [N 字形变换](problems/zigzag-conversion.md) | ![](./imgs/medium.png) | 2018/11/19 22:56
 | 8 | [String to Integer (atoi)](problems/string-to-integer-atoi.md) | [字符串转换整数 (atoi)](problems/string-to-integer-atoi.md) | ![](./imgs/medium.png) | 2022/05/02 12:57
 | 10 | [Regular Expression Matching](problems/regular-expression-matching.md) | [正则表达式匹配](problems/regular-expression-matching.md) | ![](./imgs/hard.png) | 2022/05/01 22:37
 | 17 | [Letter Combinations of a Phone Number](problems/letter-combinations-of-a-phone-number.md) | [电话号码的字母组合](problems/letter-combinations-of-a-phone-number.md) | ![](./imgs/medium.png) | 2022/05/01 23:52
@@ -441,13 +444,13 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 20 | [表示数值的字符串 LCOF](problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.md) | [表示数值的字符串](problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/11/03 23:25
 | 剑指 Offer 37 | [序列化二叉树  LCOF](problems/xu-lie-hua-er-cha-shu-lcof.md) | [序列化二叉树](problems/xu-lie-hua-er-cha-shu-lcof.md) | ![](./imgs/hard.png) | 2021/11/10 15:13
 | 剑指 Offer 38 | [字符串的排列  LCOF](problems/zi-fu-chuan-de-pai-lie-lcof.md) | [字符串的排列](problems/zi-fu-chuan-de-pai-lie-lcof.md) | ![](./imgs/medium.png) | 2021/11/30 12:17
-| 剑指 Offer 45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
 | 剑指 Offer 46 | [把数字翻译成字符串 LCOF](problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.md) | [把数字翻译成字符串](problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/12/18 14:57
 | 剑指 Offer 48 | [最长不含重复字符的子字符串 LCOF](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | [最长不含重复字符的子字符串](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/12/19 15:22
 | 剑指 Offer 50 | [第一个只出现一次的字符  LCOF](problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md) | [第一个只出现一次的字符](problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md) | ![](./imgs/easy.png) | 2021/12/21 12:59
 | 剑指 Offer 58 - I | [翻转单词顺序 LCOF](problems/fan-zhuan-dan-ci-shun-xu-lcof.md) | [翻转单词顺序](problems/fan-zhuan-dan-ci-shun-xu-lcof.md) | ![](./imgs/easy.png) | 2022/04/23 16:30
 | 剑指 Offer 58 - II | [左旋转字符串 LCOF](problems/zuo-xuan-zhuan-zi-fu-chuan-lcof.md) | [左旋转字符串](problems/zuo-xuan-zhuan-zi-fu-chuan-lcof.md) | ![](./imgs/easy.png) | 2022/04/23 16:50
-| 剑指 Offer 67 | [把字符串转换成整数 LCOF](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | [把字符串转换成整数](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:50
+| 面试题45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
+| 面试题67 | [把字符串转换成整数 LCOF](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | [把字符串转换成整数](problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:50
 
 ### 链表专项 - Linked List
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
@@ -482,6 +485,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 94 | [Binary Tree Inorder Traversal](problems/binary-tree-inorder-traversal.md) | [二叉树的中序遍历](problems/binary-tree-inorder-traversal.md) | ![](./imgs/easy.png) | 2022/06/06 21:51
 | 114 | [Flatten Binary Tree to Linked List](problems/flatten-binary-tree-to-linked-list.md) | [二叉树展开为链表](problems/flatten-binary-tree-to-linked-list.md) | ![](./imgs/medium.png) | 2022/07/11 15:47
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
+| 155 | [Min Stack](problems/min-stack.md) | [最小栈](problems/min-stack.md) | ![](./imgs/medium.png) | 2023/03/04 22:03
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 剑指 Offer 06 | [从尾到头打印链表 LCOF](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | [从尾到头打印链表](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 23:11
 | 剑指 Offer 09 | [用两个栈实现队列 LCOF](problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md) | [用两个栈实现队列](problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md) | ![](./imgs/easy.png) | 2021/04/04 17:22
@@ -528,7 +532,9 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 121 | [Best Time to Buy and Sell Stock](problems/best-time-to-buy-and-sell-stock.md) | [买卖股票的最佳时机](problems/best-time-to-buy-and-sell-stock.md) | ![](./imgs/easy.png) | 2022/07/12 13:34
 | 128 | [Longest Consecutive Sequence](problems/longest-consecutive-sequence.md) | [最长连续序列](problems/longest-consecutive-sequence.md) | ![](./imgs/medium.png) | 2022/09/03 19:05
 | 136 | [Single Number](problems/single-number.md) | [只出现一次的数字](problems/single-number.md) | ![](./imgs/easy.png) | 2022/09/04 17:08
+| 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
 | 150 | [Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md) | [逆波兰表达式求值](problems/evaluate-reverse-polish-notation.md) | ![](./imgs/medium.png) | 2020/03/23 22:33
+| 152 | [Maximum Product Subarray](problems/maximum-product-subarray.md) | [乘积最大子数组](problems/maximum-product-subarray.md) | ![](./imgs/medium.png) | 2023/01/09 21:55
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
@@ -555,9 +561,9 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 56 - I | [数组中数字出现的次数 LCOF](problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.md) | [数组中数字出现的次数](problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.md) | ![](./imgs/medium.png) | 2022/04/17 19:21
 | 剑指 Offer 56 - II | [数组中数字出现的次数 II LCOF](problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.md) | [数组中数字出现的次数 II](problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.md) | ![](./imgs/medium.png) | 2022/04/22 22:20
 | 剑指 Offer 57 | [和为s的两个数字 LCOF](problems/he-wei-sde-liang-ge-shu-zi-lcof.md) | [和为s的两个数字](problems/he-wei-sde-liang-ge-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/22 23:19
-| 剑指 Offer 61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
 | 剑指 Offer 63 | [股票的最大利润  LCOF](problems/gu-piao-de-zui-da-li-run-lcof.md) | [股票的最大利润](problems/gu-piao-de-zui-da-li-run-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 12:45
 | 剑指 Offer 66 | [构建乘积数组 LCOF](problems/gou-jian-cheng-ji-shu-zu-lcof.md) | [构建乘积数组](problems/gou-jian-cheng-ji-shu-zu-lcof.md) | ![](./imgs/medium.png) | 2022/04/30 15:08
+| 面试题61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
 
 ### 矩阵专项 - Matrix
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
@@ -628,8 +634,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 剑指 Offer 39 | [数组中出现次数超过一半的数字  LCOF](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | [数组中出现次数超过一半的数字](problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/11/10 20:31
 | 剑指 Offer 40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 | 剑指 Offer 41 | [数据流中的中位数  LCOF](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | [数据流中的中位数](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/10 14:16
-| 剑指 Offer 45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
-| 剑指 Offer 61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
+| 面试题45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
+| 面试题61 | [扑克牌中的顺子  LCOF](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | [扑克牌中的顺子](problems/bu-ke-pai-zhong-de-shun-zi-lcof.md) | ![](./imgs/easy.png) | 2022/04/26 21:03
 
 ### DFS / BFS
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |

@@ -14,7 +14,7 @@
 <p><strong>The length of the path</strong> between two nodes is represented by the number of edges between them.</p>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/13/ex1.jpg" style="width: 450px; height: 238px;" />
 <pre>
 <strong>Input:</strong> root = [5,4,5,1,1,null,5]
@@ -22,7 +22,7 @@
 <strong>Explanation:</strong> The shown image shows that the longest path of the same value (i.e. 5).
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/13/ex2.jpg" style="width: 450px; height: 238px;" />
 <pre>
 <strong>Input:</strong> root = [1,4,5,4,4,null,5]

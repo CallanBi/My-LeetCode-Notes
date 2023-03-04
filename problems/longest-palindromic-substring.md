@@ -9,12 +9,10 @@
 ## Description - 题目描述
 
 ### EN:
-<p>Given a string <code>s</code>, return <em>the longest palindromic substring</em> in <code>s</code>.</p>
-
-<p>A string is called a palindrome string if the reverse of that string is the same as the original string.</p>
+<p>Given a string <code>s</code>, return <em>the longest</em> <span data-keyword="palindromic-string"><em>palindromic</em></span> <span data-keyword="substring-nonempty"><em>substring</em></span> in <code>s</code>.</p>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;babad&quot;
@@ -22,7 +20,7 @@
 <strong>Explanation:</strong> &quot;aba&quot; is also a valid answer.
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;cbbd&quot;
@@ -40,6 +38,8 @@
 
 ### ZH-CN:
 <p>给你一个字符串 <code>s</code>，找到 <code>s</code> 中最长的回文子串。</p>
+
+<p>如果字符串的反序与原始字符串相同，则该字符串称为回文字符串。</p>
 
 <p>&nbsp;</p>
 

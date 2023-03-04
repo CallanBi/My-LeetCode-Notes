@@ -16,7 +16,7 @@
 <p>You can return the answer in any order.</p>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [2,7,11,15], target = 9
@@ -24,14 +24,14 @@
 <strong>Explanation:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [3,2,4], target = 6
 <strong>Output:</strong> [1,2]
 </pre>
 
-<p><strong>Example 3:</strong></p>
+<p><strong class="example">Example 3:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [3,3], target = 6
@@ -60,7 +60,7 @@
 
 <p>&nbsp;</p>
 
-<p><strong>示例 1：</strong></p>
+<p><strong class="example">示例 1：</strong></p>
 
 <pre>
 <strong>输入：</strong>nums = [2,7,11,15], target = 9
@@ -68,14 +68,14 @@
 <strong>解释：</strong>因为 nums[0] + nums[1] == 9 ，返回 [0, 1] 。
 </pre>
 
-<p><strong>示例 2：</strong></p>
+<p><strong class="example">示例 2：</strong></p>
 
 <pre>
 <strong>输入：</strong>nums = [3,2,4], target = 6
 <strong>输出：</strong>[1,2]
 </pre>
 
-<p><strong>示例 3：</strong></p>
+<p><strong class="example">示例 3：</strong></p>
 
 <pre>
 <strong>输入：</strong>nums = [3,3], target = 6
@@ -92,6 +92,8 @@
 	<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>
 	<li><strong>只会存在一个有效答案</strong></li>
 </ul>
+
+<p>&nbsp;</p>
 
 <p><strong>进阶：</strong>你可以想出一个时间复杂度小于 <code>O(n<sup>2</sup>)</code> 的算法吗？</p>
 

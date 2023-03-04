@@ -16,14 +16,14 @@
 <p>You must solve this problem without using the library&#39;s sort function.</p>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [2,0,2,1,1,0]
 <strong>Output:</strong> [0,0,1,1,2,2]
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [2,0,1]
@@ -51,7 +51,7 @@
 <ul>
 </ul>
 
-<p>必须在不使用库的sort函数的情况下解决这个问题。</p>
+<p>必须在不使用库内置的 sort 函数的情况下解决这个问题。</p>
 
 <p>&nbsp;</p>
 
@@ -84,7 +84,6 @@
 <p><strong>进阶：</strong></p>
 
 <ul>
-	<li>你可以不使用代码库中的排序函数来解决这道题吗？</li>
 	<li>你能想出一个仅使用常数空间的一趟扫描算法吗？</li>
 </ul>
 
