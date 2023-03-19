@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/162/2967-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/163/2971-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-61-green.svg">
-  <img src="https://img.shields.io/badge/Medium-83-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-84-orange.svg">
   <img src="https://img.shields.io/badge/Hard-18-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/03/18 20:24</b>
+  <b>Last updated: 2023/03/19 11:14</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 208 | [Implement Trie (Prefix Tree)](problems/implement-trie-prefix-tree.md) | [实现 Trie (前缀树)](problems/implement-trie-prefix-tree.md) | ![](./imgs/medium.png) | 2023/03/19 11:12
 | 207 | [Course Schedule](problems/course-schedule.md) | [课程表](problems/course-schedule.md) | ![](./imgs/medium.png) | 2023/03/18 20:14
 | 200 | [Number of Islands](problems/number-of-islands.md) | [岛屿数量](problems/number-of-islands.md) | ![](./imgs/medium.png) | 2023/03/05 18:00
 | 198 | [House Robber](problems/house-robber.md) | [打家劫舍](problems/house-robber.md) | ![](./imgs/medium.png) | 2023/03/04 23:49
@@ -444,6 +445,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 72 | [Edit Distance](problems/edit-distance.md) | [编辑距离](problems/edit-distance.md) | ![](./imgs/hard.png) | 2022/05/29 23:44
 | 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
 | 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
+| 208 | [Implement Trie (Prefix Tree)](problems/implement-trie-prefix-tree.md) | [实现 Trie (前缀树)](problems/implement-trie-prefix-tree.md) | ![](./imgs/medium.png) | 2023/03/19 11:12
 | 415 | [Add Strings](problems/add-strings.md) | [字符串相加](problems/add-strings.md) | ![](./imgs/easy.png) | 2020/03/23 17:40
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 806 | [Number of Lines To Write String](problems/number-of-lines-to-write-string.md) | [写字符串需要的行数](problems/number-of-lines-to-write-string.md) | ![](./imgs/easy.png) | 2022/04/12 11:09
@@ -619,6 +621,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 146 | [LRU Cache](problems/lru-cache.md) | [LRU 缓存](problems/lru-cache.md) | ![](./imgs/medium.png) | 2022/09/16 10:54
 | 160 | [Intersection of Two Linked Lists](problems/intersection-of-two-linked-lists.md) | [相交链表](problems/intersection-of-two-linked-lists.md) | ![](./imgs/easy.png) | 2023/03/04 22:36
 | 169 | [Majority Element](problems/majority-element.md) | [多数元素](problems/majority-element.md) | ![](./imgs/easy.png) | 2023/03/04 23:05
+| 208 | [Implement Trie (Prefix Tree)](problems/implement-trie-prefix-tree.md) | [实现 Trie (前缀树)](problems/implement-trie-prefix-tree.md) | ![](./imgs/medium.png) | 2023/03/19 11:12
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
