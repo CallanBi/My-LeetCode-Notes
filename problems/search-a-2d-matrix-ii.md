@@ -132,6 +132,12 @@ function searchMatrix(matrix: number[][], target: number): boolean {
 ## My Notes - 我的笔记
 
 
+# 最好的方法
+本题可以看做是以矩阵右上角为根结点的二叉搜索树。
+
+看成这样就非常简单了。
+# 剑指offer 
+
 用剑指 offer 提供的思路实现，开销较大
 ```typescript
 function searchMatrix(matrix: number[][], target: number): boolean {
@@ -164,6 +170,8 @@ function searchMatrix(matrix: number[][], target: number): boolean {
   }
 };
 ```
+
+## 暴力
 
 直接一行代码暴力解决吧
 ```typescript

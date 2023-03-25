@@ -1,5 +1,5 @@
 
-# 23. Merge k Sorted Lists - 合并K个升序链表
+# 23. Merge k Sorted Lists - 合并 K 个升序链表
 
 ## Tags - 题目标签
 
