@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/169/2976-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/171/2980-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-63-green.svg">
-  <img src="https://img.shields.io/badge/Medium-88-orange.svg">
-  <img src="https://img.shields.io/badge/Hard-18-red.svg">
+  <img src="https://img.shields.io/badge/Medium-89-orange.svg">
+  <img src="https://img.shields.io/badge/Hard-19-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/03/25 22:55</b>
+  <b>Last updated: 2023/03/26 16:12</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 297 | [Serialize and Deserialize Binary Tree](problems/serialize-and-deserialize-binary-tree.md) | [二叉树的序列化与反序列化](problems/serialize-and-deserialize-binary-tree.md) | ![](./imgs/hard.png) | 2023/03/26 16:07
+| 287 | [Find the Duplicate Number](problems/find-the-duplicate-number.md) | [寻找重复数](problems/find-the-duplicate-number.md) | ![](./imgs/medium.png) | 2023/03/26 11:26
 | 283 | [Move Zeroes](problems/move-zeroes.md) | [移动零](problems/move-zeroes.md) | ![](./imgs/easy.png) | 2023/03/25 21:27
 | 279 | [Perfect Squares](problems/perfect-squares.md) | [完全平方数](problems/perfect-squares.md) | ![](./imgs/medium.png) | 2023/03/25 21:14
 | 238 | [Product of Array Except Self](problems/product-of-array-except-self.md) | [除自身以外数组的乘积](problems/product-of-array-except-self.md) | ![](./imgs/medium.png) | 2023/03/25 19:57
@@ -339,6 +341,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 160 | [Intersection of Two Linked Lists](problems/intersection-of-two-linked-lists.md) | [相交链表](problems/intersection-of-two-linked-lists.md) | ![](./imgs/easy.png) | 2023/03/04 22:36
 | 234 | [Palindrome Linked List](problems/palindrome-linked-list.md) | [回文链表](problems/palindrome-linked-list.md) | ![](./imgs/easy.png) | 2023/03/25 19:37
 | 283 | [Move Zeroes](problems/move-zeroes.md) | [移动零](problems/move-zeroes.md) | ![](./imgs/easy.png) | 2023/03/25 21:27
+| 287 | [Find the Duplicate Number](problems/find-the-duplicate-number.md) | [寻找重复数](problems/find-the-duplicate-number.md) | ![](./imgs/medium.png) | 2023/03/26 11:26
 | 剑指 Offer 06 | [从尾到头打印链表 LCOF](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | [从尾到头打印链表](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 23:11
 | 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面 LCOF](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | [调整数组顺序使奇数位于偶数前面](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | ![](./imgs/easy.png) | 2021/11/04 12:52
 | 剑指 Offer 22 | [链表中倒数第k个节点 LCOF](problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md) | [链表中倒数第k个节点](problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md) | ![](./imgs/easy.png) | 2021/11/04 15:00
@@ -419,6 +422,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 226 | [Invert Binary Tree](problems/invert-binary-tree.md) | [翻转二叉树](problems/invert-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 16:00
 | 230 | [Kth Smallest Element in a BST](problems/kth-smallest-element-in-a-bst.md) | [二叉搜索树中第K小的元素](problems/kth-smallest-element-in-a-bst.md) | ![](./imgs/medium.png) | 2020/03/23 18:14
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/lowest-common-ancestor-of-a-binary-tree.md) | [二叉树的最近公共祖先](problems/lowest-common-ancestor-of-a-binary-tree.md) | ![](./imgs/medium.png) | 2020/03/24 12:06
+| 297 | [Serialize and Deserialize Binary Tree](problems/serialize-and-deserialize-binary-tree.md) | [二叉树的序列化与反序列化](problems/serialize-and-deserialize-binary-tree.md) | ![](./imgs/hard.png) | 2023/03/26 16:07
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 687 | [Longest Univalue Path](problems/longest-univalue-path.md) | [最长同值路径](problems/longest-univalue-path.md) | ![](./imgs/medium.png) | 2022/09/04 11:31
 | 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
@@ -457,6 +461,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
 | 139 | [Word Break](problems/word-break.md) | [单词拆分](problems/word-break.md) | ![](./imgs/medium.png) | 2022/09/10 10:50
 | 208 | [Implement Trie (Prefix Tree)](problems/implement-trie-prefix-tree.md) | [实现 Trie (前缀树)](problems/implement-trie-prefix-tree.md) | ![](./imgs/medium.png) | 2023/03/19 11:12
+| 297 | [Serialize and Deserialize Binary Tree](problems/serialize-and-deserialize-binary-tree.md) | [二叉树的序列化与反序列化](problems/serialize-and-deserialize-binary-tree.md) | ![](./imgs/hard.png) | 2023/03/26 16:07
 | 415 | [Add Strings](problems/add-strings.md) | [字符串相加](problems/add-strings.md) | ![](./imgs/easy.png) | 2020/03/23 17:40
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 806 | [Number of Lines To Write String](problems/number-of-lines-to-write-string.md) | [写字符串需要的行数](problems/number-of-lines-to-write-string.md) | ![](./imgs/easy.png) | 2022/04/12 11:09
@@ -568,6 +573,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
 | 283 | [Move Zeroes](problems/move-zeroes.md) | [移动零](problems/move-zeroes.md) | ![](./imgs/easy.png) | 2023/03/25 21:27
+| 287 | [Find the Duplicate Number](problems/find-the-duplicate-number.md) | [寻找重复数](problems/find-the-duplicate-number.md) | ![](./imgs/medium.png) | 2023/03/26 11:26
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 704 | [Binary Search](problems/binary-search.md) | [二分查找](problems/binary-search.md) | ![](./imgs/easy.png) | 2021/04/08 0:48
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
@@ -686,6 +692,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 200 | [Number of Islands](problems/number-of-islands.md) | [岛屿数量](problems/number-of-islands.md) | ![](./imgs/medium.png) | 2023/03/05 18:00
 | 207 | [Course Schedule](problems/course-schedule.md) | [课程表](problems/course-schedule.md) | ![](./imgs/medium.png) | 2023/03/18 20:14
 | 226 | [Invert Binary Tree](problems/invert-binary-tree.md) | [翻转二叉树](problems/invert-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 16:00
+| 297 | [Serialize and Deserialize Binary Tree](problems/serialize-and-deserialize-binary-tree.md) | [二叉树的序列化与反序列化](problems/serialize-and-deserialize-binary-tree.md) | ![](./imgs/hard.png) | 2023/03/26 16:07
 | 965 | [Univalued Binary Tree](problems/univalued-binary-tree.md) | [单值二叉树](problems/univalued-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 14:02
 | 剑指 Offer 27 | [二叉树的镜像  LCOF](problems/er-cha-shu-de-jing-xiang-lcof.md) | [二叉树的镜像](problems/er-cha-shu-de-jing-xiang-lcof.md) | ![](./imgs/easy.png) | 2021/11/05 17:44
 | 剑指 Offer 28 | [对称的二叉树  LCOF](problems/dui-cheng-de-er-cha-shu-lcof.md) | [对称的二叉树](problems/dui-cheng-de-er-cha-shu-lcof.md) | ![](./imgs/easy.png) | 2021/11/06 20:29
@@ -700,6 +707,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 33 | [Search in Rotated Sorted Array](problems/search-in-rotated-sorted-array.md) | [搜索旋转排序数组](problems/search-in-rotated-sorted-array.md) | ![](./imgs/medium.png) | 2022/05/06 21:28
 | 34 | [Find First and Last Position of Element in Sorted Array](problems/find-first-and-last-position-of-element-in-sorted-array.md) | [在排序数组中查找元素的第一个和最后一个位置](problems/find-first-and-last-position-of-element-in-sorted-array.md) | ![](./imgs/medium.png) | 2022/05/06 20:48
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
+| 287 | [Find the Duplicate Number](problems/find-the-duplicate-number.md) | [寻找重复数](problems/find-the-duplicate-number.md) | ![](./imgs/medium.png) | 2023/03/26 11:26
 | 704 | [Binary Search](problems/binary-search.md) | [二分查找](problems/binary-search.md) | ![](./imgs/easy.png) | 2021/04/08 0:48
 | 剑指 Offer 04 | [二维数组中的查找 LCOF](problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof.md) | [二维数组中的查找](problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof.md) | ![](./imgs/medium.png) | 2021/04/03 19:32
 | 剑指 Offer 11 | [旋转数组的最小数字  LCOF](problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.md) | [旋转数组的最小数字](problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/10/10 22:22
