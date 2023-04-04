@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/174/2980-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/176/2989-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-63-green.svg">
-  <img src="https://img.shields.io/badge/Medium-91-orange.svg">
-  <img src="https://img.shields.io/badge/Hard-20-red.svg">
+  <img src="https://img.shields.io/badge/Medium-92-orange.svg">
+  <img src="https://img.shields.io/badge/Hard-21-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/03/29 19:59</b>
+  <b>Last updated: 2023/04/04 22:36</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 322 | [Coin Change](problems/coin-change.md) | [零钱兑换](problems/coin-change.md) | ![](./imgs/medium.png) | 2023/04/04 21:55
+| 312 | [Burst Balloons](problems/burst-balloons.md) | [戳气球](problems/burst-balloons.md) | ![](./imgs/hard.png) | 2023/04/04 19:58
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | [最佳买卖股票时机含冷冻期](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | ![](./imgs/medium.png) | 2023/03/29 19:53
 | 301 | [Remove Invalid Parentheses](problems/remove-invalid-parentheses.md) | [删除无效的括号](problems/remove-invalid-parentheses.md) | ![](./imgs/hard.png) | 2023/03/26 23:36
 | 300 | [Longest Increasing Subsequence](problems/longest-increasing-subsequence.md) | [最长递增子序列](problems/longest-increasing-subsequence.md) | ![](./imgs/medium.png) | 2023/03/26 17:16
@@ -313,6 +315,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 279 | [Perfect Squares](problems/perfect-squares.md) | [完全平方数](problems/perfect-squares.md) | ![](./imgs/medium.png) | 2023/03/25 21:14
 | 300 | [Longest Increasing Subsequence](problems/longest-increasing-subsequence.md) | [最长递增子序列](problems/longest-increasing-subsequence.md) | ![](./imgs/medium.png) | 2023/03/26 17:16
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | [最佳买卖股票时机含冷冻期](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | ![](./imgs/medium.png) | 2023/03/29 19:53
+| 312 | [Burst Balloons](problems/burst-balloons.md) | [戳气球](problems/burst-balloons.md) | ![](./imgs/hard.png) | 2023/04/04 19:58
+| 322 | [Coin Change](problems/coin-change.md) | [零钱兑换](problems/coin-change.md) | ![](./imgs/medium.png) | 2023/04/04 21:55
 | 343 | [Integer Break](problems/integer-break.md) | [整数拆分](problems/integer-break.md) | ![](./imgs/medium.png) | 2022/04/10 21:16
 | 357 | [Count Numbers with Unique Digits](problems/count-numbers-with-unique-digits.md) | [统计各位数字都不同的数字个数](problems/count-numbers-with-unique-digits.md) | ![](./imgs/medium.png) | 2022/04/11 18:53
 | 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
@@ -583,6 +587,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 287 | [Find the Duplicate Number](problems/find-the-duplicate-number.md) | [寻找重复数](problems/find-the-duplicate-number.md) | ![](./imgs/medium.png) | 2023/03/26 11:26
 | 300 | [Longest Increasing Subsequence](problems/longest-increasing-subsequence.md) | [最长递增子序列](problems/longest-increasing-subsequence.md) | ![](./imgs/medium.png) | 2023/03/26 17:16
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | [最佳买卖股票时机含冷冻期](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | ![](./imgs/medium.png) | 2023/03/29 19:53
+| 312 | [Burst Balloons](problems/burst-balloons.md) | [戳气球](problems/burst-balloons.md) | ![](./imgs/hard.png) | 2023/04/04 19:58
+| 322 | [Coin Change](problems/coin-change.md) | [零钱兑换](problems/coin-change.md) | ![](./imgs/medium.png) | 2023/04/04 21:55
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 704 | [Binary Search](problems/binary-search.md) | [二分查找](problems/binary-search.md) | ![](./imgs/easy.png) | 2021/04/08 0:48
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
