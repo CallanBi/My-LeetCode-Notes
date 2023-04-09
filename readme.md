@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/180/2994-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/181/2994-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-64-green.svg">
-  <img src="https://img.shields.io/badge/Medium-95-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-96-orange.svg">
   <img src="https://img.shields.io/badge/Hard-21-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/04/09 18:54</b>
+  <b>Last updated: 2023/04/09 22:02</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 399 | [Evaluate Division](problems/evaluate-division.md) | [除法求值](problems/evaluate-division.md) | ![](./imgs/medium.png) | 2023/04/09 21:20
 | 394 | [Decode String](problems/decode-string.md) | [字符串解码](problems/decode-string.md) | ![](./imgs/medium.png) | 2023/04/09 18:41
 | 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
 | 338 | [Counting Bits](problems/counting-bits.md) | [比特位计数](problems/counting-bits.md) | ![](./imgs/easy.png) | 2023/04/09 15:26
@@ -600,6 +601,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 312 | [Burst Balloons](problems/burst-balloons.md) | [戳气球](problems/burst-balloons.md) | ![](./imgs/hard.png) | 2023/04/04 19:58
 | 322 | [Coin Change](problems/coin-change.md) | [零钱兑换](problems/coin-change.md) | ![](./imgs/medium.png) | 2023/04/04 21:55
 | 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
+| 399 | [Evaluate Division](problems/evaluate-division.md) | [除法求值](problems/evaluate-division.md) | ![](./imgs/medium.png) | 2023/04/09 21:20
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 704 | [Binary Search](problems/binary-search.md) | [二分查找](problems/binary-search.md) | ![](./imgs/easy.png) | 2021/04/08 0:48
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
@@ -722,6 +724,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 207 | [Course Schedule](problems/course-schedule.md) | [课程表](problems/course-schedule.md) | ![](./imgs/medium.png) | 2023/03/18 20:14
 | 226 | [Invert Binary Tree](problems/invert-binary-tree.md) | [翻转二叉树](problems/invert-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 16:00
 | 297 | [Serialize and Deserialize Binary Tree](problems/serialize-and-deserialize-binary-tree.md) | [二叉树的序列化与反序列化](problems/serialize-and-deserialize-binary-tree.md) | ![](./imgs/hard.png) | 2023/03/26 16:07
+| 399 | [Evaluate Division](problems/evaluate-division.md) | [除法求值](problems/evaluate-division.md) | ![](./imgs/medium.png) | 2023/04/09 21:20
 | 965 | [Univalued Binary Tree](problems/univalued-binary-tree.md) | [单值二叉树](problems/univalued-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 14:02
 | 剑指 Offer 27 | [二叉树的镜像  LCOF](problems/er-cha-shu-de-jing-xiang-lcof.md) | [二叉树的镜像](problems/er-cha-shu-de-jing-xiang-lcof.md) | ![](./imgs/easy.png) | 2021/11/05 17:44
 | 剑指 Offer 28 | [对称的二叉树  LCOF](problems/dui-cheng-de-er-cha-shu-lcof.md) | [对称的二叉树](problems/dui-cheng-de-er-cha-shu-lcof.md) | ![](./imgs/easy.png) | 2021/11/06 20:29
