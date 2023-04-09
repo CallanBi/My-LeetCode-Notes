@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/176/2989-Solved/Total-blue.svg">
-  <img src="https://img.shields.io/badge/Easy-63-green.svg">
-  <img src="https://img.shields.io/badge/Medium-92-orange.svg">
+  <img src="https://img.shields.io/badge/179/2994-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/Easy-64-green.svg">
+  <img src="https://img.shields.io/badge/Medium-94-orange.svg">
   <img src="https://img.shields.io/badge/Hard-21-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/04/04 22:36</b>
+  <b>Last updated: 2023/04/09 17:24</b>
   <br>
 </p>
 
@@ -28,6 +28,9 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
+| 338 | [Counting Bits](problems/counting-bits.md) | [比特位计数](problems/counting-bits.md) | ![](./imgs/easy.png) | 2023/04/09 15:26
+| 337 | [House Robber III](problems/house-robber-iii.md) | [打家劫舍 III](problems/house-robber-iii.md) | ![](./imgs/medium.png) | 2023/04/09 14:58
 | 322 | [Coin Change](problems/coin-change.md) | [零钱兑换](problems/coin-change.md) | ![](./imgs/medium.png) | 2023/04/04 21:55
 | 312 | [Burst Balloons](problems/burst-balloons.md) | [戳气球](problems/burst-balloons.md) | ![](./imgs/hard.png) | 2023/04/04 19:58
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | [最佳买卖股票时机含冷冻期](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | ![](./imgs/medium.png) | 2023/03/29 19:53
@@ -317,6 +320,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | [最佳买卖股票时机含冷冻期](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | ![](./imgs/medium.png) | 2023/03/29 19:53
 | 312 | [Burst Balloons](problems/burst-balloons.md) | [戳气球](problems/burst-balloons.md) | ![](./imgs/hard.png) | 2023/04/04 19:58
 | 322 | [Coin Change](problems/coin-change.md) | [零钱兑换](problems/coin-change.md) | ![](./imgs/medium.png) | 2023/04/04 21:55
+| 337 | [House Robber III](problems/house-robber-iii.md) | [打家劫舍 III](problems/house-robber-iii.md) | ![](./imgs/medium.png) | 2023/04/09 14:58
+| 338 | [Counting Bits](problems/counting-bits.md) | [比特位计数](problems/counting-bits.md) | ![](./imgs/easy.png) | 2023/04/09 15:26
 | 343 | [Integer Break](problems/integer-break.md) | [整数拆分](problems/integer-break.md) | ![](./imgs/medium.png) | 2022/04/10 21:16
 | 357 | [Count Numbers with Unique Digits](problems/count-numbers-with-unique-digits.md) | [统计各位数字都不同的数字个数](problems/count-numbers-with-unique-digits.md) | ![](./imgs/medium.png) | 2022/04/11 18:53
 | 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
@@ -381,6 +386,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 169 | [Majority Element](problems/majority-element.md) | [多数元素](problems/majority-element.md) | ![](./imgs/easy.png) | 2023/03/04 23:05
 | 215 | [Kth Largest Element in an Array](problems/kth-largest-element-in-an-array.md) | [数组中的第K个最大元素](problems/kth-largest-element-in-an-array.md) | ![](./imgs/medium.png) | 2023/03/25 10:13
 | 240 | [Search a 2D Matrix II](problems/search-a-2d-matrix-ii.md) | [搜索二维矩阵 II](problems/search-a-2d-matrix-ii.md) | ![](./imgs/medium.png) | 2021/04/03 19:20
+| 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
 | 剑指 Offer 04 | [二维数组中的查找 LCOF](problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof.md) | [二维数组中的查找](problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof.md) | ![](./imgs/medium.png) | 2021/04/03 19:32
@@ -433,6 +439,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 230 | [Kth Smallest Element in a BST](problems/kth-smallest-element-in-a-bst.md) | [二叉搜索树中第K小的元素](problems/kth-smallest-element-in-a-bst.md) | ![](./imgs/medium.png) | 2020/03/23 18:14
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/lowest-common-ancestor-of-a-binary-tree.md) | [二叉树的最近公共祖先](problems/lowest-common-ancestor-of-a-binary-tree.md) | ![](./imgs/medium.png) | 2020/03/24 12:06
 | 297 | [Serialize and Deserialize Binary Tree](problems/serialize-and-deserialize-binary-tree.md) | [二叉树的序列化与反序列化](problems/serialize-and-deserialize-binary-tree.md) | ![](./imgs/hard.png) | 2023/03/26 16:07
+| 337 | [House Robber III](problems/house-robber-iii.md) | [打家劫舍 III](problems/house-robber-iii.md) | ![](./imgs/medium.png) | 2023/04/09 14:58
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 687 | [Longest Univalue Path](problems/longest-univalue-path.md) | [最长同值路径](problems/longest-univalue-path.md) | ![](./imgs/medium.png) | 2022/09/04 11:31
 | 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
@@ -589,6 +596,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | [最佳买卖股票时机含冷冻期](problems/best-time-to-buy-and-sell-stock-with-cooldown.md) | ![](./imgs/medium.png) | 2023/03/29 19:53
 | 312 | [Burst Balloons](problems/burst-balloons.md) | [戳气球](problems/burst-balloons.md) | ![](./imgs/hard.png) | 2023/04/04 19:58
 | 322 | [Coin Change](problems/coin-change.md) | [零钱兑换](problems/coin-change.md) | ![](./imgs/medium.png) | 2023/04/04 21:55
+| 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 704 | [Binary Search](problems/binary-search.md) | [二分查找](problems/binary-search.md) | ![](./imgs/easy.png) | 2021/04/08 0:48
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
@@ -639,6 +647,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 215 | [Kth Largest Element in an Array](problems/kth-largest-element-in-an-array.md) | [数组中的第K个最大元素](problems/kth-largest-element-in-an-array.md) | ![](./imgs/medium.png) | 2023/03/25 10:13
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
+| 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
 | 剑指 Offer 40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 | 剑指 Offer 41 | [数据流中的中位数  LCOF](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | [数据流中的中位数](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/10 14:16
@@ -663,6 +672,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 169 | [Majority Element](problems/majority-element.md) | [多数元素](problems/majority-element.md) | ![](./imgs/easy.png) | 2023/03/04 23:05
 | 208 | [Implement Trie (Prefix Tree)](problems/implement-trie-prefix-tree.md) | [实现 Trie (前缀树)](problems/implement-trie-prefix-tree.md) | ![](./imgs/medium.png) | 2023/03/19 11:12
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
+| 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
 | 剑指 Offer 07 | [重建二叉树 LCOF](problems/zhong-jian-er-cha-shu-lcof.md) | [重建二叉树](problems/zhong-jian-er-cha-shu-lcof.md) | ![](./imgs/medium.png) | 2021/11/02 18:31
@@ -688,6 +698,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 148 | [Sort List](problems/sort-list.md) | [排序链表](problems/sort-list.md) | ![](./imgs/medium.png) | 2022/09/20 21:36
 | 169 | [Majority Element](problems/majority-element.md) | [多数元素](problems/majority-element.md) | ![](./imgs/easy.png) | 2023/03/04 23:05
 | 215 | [Kth Largest Element in an Array](problems/kth-largest-element-in-an-array.md) | [数组中的第K个最大元素](problems/kth-largest-element-in-an-array.md) | ![](./imgs/medium.png) | 2023/03/25 10:13
+| 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
 | 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面 LCOF](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | [调整数组顺序使奇数位于偶数前面](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | ![](./imgs/easy.png) | 2021/11/04 12:52
