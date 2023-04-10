@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/182/2994-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/183/2994-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-64-green.svg">
-  <img src="https://img.shields.io/badge/Medium-97-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-98-orange.svg">
   <img src="https://img.shields.io/badge/Hard-21-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/04/10 1:42</b>
+  <b>Last updated: 2023/04/10 12:12</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 1143 | [Longest Common Subsequence](problems/longest-common-subsequence.md) | [最长公共子序列](problems/longest-common-subsequence.md) | ![](./imgs/medium.png) | 2023/04/10 12:08
 | 406 | [Queue Reconstruction by Height](problems/queue-reconstruction-by-height.md) | [根据身高重建队列](problems/queue-reconstruction-by-height.md) | ![](./imgs/medium.png) | 2023/04/10 0:50
 | 399 | [Evaluate Division](problems/evaluate-division.md) | [除法求值](problems/evaluate-division.md) | ![](./imgs/medium.png) | 2023/04/09 21:20
 | 394 | [Decode String](problems/decode-string.md) | [字符串解码](problems/decode-string.md) | ![](./imgs/medium.png) | 2023/04/09 18:41
@@ -328,6 +329,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 343 | [Integer Break](problems/integer-break.md) | [整数拆分](problems/integer-break.md) | ![](./imgs/medium.png) | 2022/04/10 21:16
 | 357 | [Count Numbers with Unique Digits](problems/count-numbers-with-unique-digits.md) | [统计各位数字都不同的数字个数](problems/count-numbers-with-unique-digits.md) | ![](./imgs/medium.png) | 2022/04/11 18:53
 | 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
+| 1143 | [Longest Common Subsequence](problems/longest-common-subsequence.md) | [最长公共子序列](problems/longest-common-subsequence.md) | ![](./imgs/medium.png) | 2023/04/10 12:08
 | 剑指 Offer 10- I | [斐波那契数列  LCOF](problems/fei-bo-na-qi-shu-lie-lcof.md) | [斐波那契数列](problems/fei-bo-na-qi-shu-lie-lcof.md) | ![](./imgs/easy.png) | 2021/04/04 20:42
 | 剑指 Offer 10- II | [青蛙跳台阶问题  LCOF](problems/qing-wa-tiao-tai-jie-wen-ti-lcof.md) | [青蛙跳台阶问题](problems/qing-wa-tiao-tai-jie-wen-ti-lcof.md) | ![](./imgs/easy.png) | 2021/04/04 21:17
 | 剑指 Offer 14- I | [剪绳子  LCOF](problems/jian-sheng-zi-lcof.md) | [剪绳子](problems/jian-sheng-zi-lcof.md) | ![](./imgs/medium.png) | 2021/04/17 16:59
@@ -488,6 +490,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 415 | [Add Strings](problems/add-strings.md) | [字符串相加](problems/add-strings.md) | ![](./imgs/easy.png) | 2020/03/23 17:40
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 806 | [Number of Lines To Write String](problems/number-of-lines-to-write-string.md) | [写字符串需要的行数](problems/number-of-lines-to-write-string.md) | ![](./imgs/easy.png) | 2022/04/12 11:09
+| 1143 | [Longest Common Subsequence](problems/longest-common-subsequence.md) | [最长公共子序列](problems/longest-common-subsequence.md) | ![](./imgs/medium.png) | 2023/04/10 12:08
 | 剑指 Offer 05 | [替换空格 LCOF](problems/ti-huan-kong-ge-lcof.md) | [替换空格](problems/ti-huan-kong-ge-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 22:21
 | 剑指 Offer 19 | [正则表达式匹配 LCOF](problems/zheng-ze-biao-da-shi-pi-pei-lcof.md) | [正则表达式匹配](problems/zheng-ze-biao-da-shi-pi-pei-lcof.md) | ![](./imgs/hard.png) | 2022/04/30 23:18
 | 剑指 Offer 20 | [表示数值的字符串 LCOF](problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.md) | [表示数值的字符串](problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/11/03 23:25
