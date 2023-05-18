@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/184/3062-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/185/3077-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-64-green.svg">
-  <img src="https://img.shields.io/badge/Medium-99-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-100-orange.svg">
   <img src="https://img.shields.io/badge/Hard-21-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/05/12 14:05</b>
+  <b>Last updated: 2023/05/18 11:41</b>
   <br>
 </p>
 
@@ -28,6 +28,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 470 | [Implement Rand10() Using Rand7()](problems/implement-rand10-using-rand7.md) | [用 Rand7() 实现 Rand10()](problems/implement-rand10-using-rand7.md) | ![](./imgs/medium.png) | 2023/05/18 11:37
 | 416 | [Partition Equal Subset Sum](problems/partition-equal-subset-sum.md) | [分割等和子集](problems/partition-equal-subset-sum.md) | ![](./imgs/medium.png) | 2023/05/12 13:34
 | 1143 | [Longest Common Subsequence](problems/longest-common-subsequence.md) | [最长公共子序列](problems/longest-common-subsequence.md) | ![](./imgs/medium.png) | 2023/04/10 12:08
 | 406 | [Queue Reconstruction by Height](problems/queue-reconstruction-by-height.md) | [根据身高重建队列](problems/queue-reconstruction-by-height.md) | ![](./imgs/medium.png) | 2023/04/10 0:50
