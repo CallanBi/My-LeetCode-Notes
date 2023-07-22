@@ -10,7 +10,7 @@
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/07/22 19:57</b>
+  <b>Last updated: 2023/07/23 0:00</b>
   <br>
 </p>
 
