@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/185/3077-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/187/3171-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-64-green.svg">
-  <img src="https://img.shields.io/badge/Medium-100-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-102-orange.svg">
   <img src="https://img.shields.io/badge/Hard-21-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/05/18 11:41</b>
+  <b>Last updated: 2023/07/22 19:57</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 438 | [Find All Anagrams in a String](problems/find-all-anagrams-in-a-string.md) | [找到字符串中所有字母异位词](problems/find-all-anagrams-in-a-string.md) | ![](./imgs/medium.png) | 2023/07/20 21:35
+| 437 | [Path Sum III](problems/path-sum-iii.md) | [路径总和 III](problems/path-sum-iii.md) | ![](./imgs/medium.png) | 2023/07/20 1:03
 | 470 | [Implement Rand10() Using Rand7()](problems/implement-rand10-using-rand7.md) | [用 Rand7() 实现 Rand10()](problems/implement-rand10-using-rand7.md) | ![](./imgs/medium.png) | 2023/05/18 11:37
 | 416 | [Partition Equal Subset Sum](problems/partition-equal-subset-sum.md) | [分割等和子集](problems/partition-equal-subset-sum.md) | ![](./imgs/medium.png) | 2023/05/12 13:34
 | 1143 | [Longest Common Subsequence](problems/longest-common-subsequence.md) | [最长公共子序列](problems/longest-common-subsequence.md) | ![](./imgs/medium.png) | 2023/04/10 12:08
@@ -380,6 +382,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 3 | [Longest Substring Without Repeating Characters](problems/longest-substring-without-repeating-characters.md) | [无重复字符的最长子串](problems/longest-substring-without-repeating-characters.md) | ![](./imgs/medium.png) | 2022/03/31 19:30
 | 76 | [Minimum Window Substring](problems/minimum-window-substring.md) | [最小覆盖子串](problems/minimum-window-substring.md) | ![](./imgs/hard.png) | 2022/05/30 17:50
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
+| 438 | [Find All Anagrams in a String](problems/find-all-anagrams-in-a-string.md) | [找到字符串中所有字母异位词](problems/find-all-anagrams-in-a-string.md) | ![](./imgs/medium.png) | 2023/07/20 21:35
 | 剑指 Offer 48 | [最长不含重复字符的子字符串 LCOF](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | [最长不含重复字符的子字符串](problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.md) | ![](./imgs/medium.png) | 2021/12/19 15:22
 | 剑指 Offer 59 - I | [滑动窗口的最大值 LCOF](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | [滑动窗口的最大值](problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof.md) | ![](./imgs/hard.png) | 2022/04/23 18:40
 
@@ -449,6 +452,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/lowest-common-ancestor-of-a-binary-tree.md) | [二叉树的最近公共祖先](problems/lowest-common-ancestor-of-a-binary-tree.md) | ![](./imgs/medium.png) | 2020/03/24 12:06
 | 297 | [Serialize and Deserialize Binary Tree](problems/serialize-and-deserialize-binary-tree.md) | [二叉树的序列化与反序列化](problems/serialize-and-deserialize-binary-tree.md) | ![](./imgs/hard.png) | 2023/03/26 16:07
 | 337 | [House Robber III](problems/house-robber-iii.md) | [打家劫舍 III](problems/house-robber-iii.md) | ![](./imgs/medium.png) | 2023/04/09 14:58
+| 437 | [Path Sum III](problems/path-sum-iii.md) | [路径总和 III](problems/path-sum-iii.md) | ![](./imgs/medium.png) | 2023/07/20 1:03
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 687 | [Longest Univalue Path](problems/longest-univalue-path.md) | [最长同值路径](problems/longest-univalue-path.md) | ![](./imgs/medium.png) | 2022/09/04 11:31
 | 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
@@ -491,6 +495,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 301 | [Remove Invalid Parentheses](problems/remove-invalid-parentheses.md) | [删除无效的括号](problems/remove-invalid-parentheses.md) | ![](./imgs/hard.png) | 2023/03/26 23:36
 | 394 | [Decode String](problems/decode-string.md) | [字符串解码](problems/decode-string.md) | ![](./imgs/medium.png) | 2023/04/09 18:41
 | 415 | [Add Strings](problems/add-strings.md) | [字符串相加](problems/add-strings.md) | ![](./imgs/easy.png) | 2020/03/23 17:40
+| 438 | [Find All Anagrams in a String](problems/find-all-anagrams-in-a-string.md) | [找到字符串中所有字母异位词](problems/find-all-anagrams-in-a-string.md) | ![](./imgs/medium.png) | 2023/07/20 21:35
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 806 | [Number of Lines To Write String](problems/number-of-lines-to-write-string.md) | [写字符串需要的行数](problems/number-of-lines-to-write-string.md) | ![](./imgs/easy.png) | 2022/04/12 11:09
 | 1143 | [Longest Common Subsequence](problems/longest-common-subsequence.md) | [最长公共子序列](problems/longest-common-subsequence.md) | ![](./imgs/medium.png) | 2023/04/10 12:08
@@ -688,6 +693,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 208 | [Implement Trie (Prefix Tree)](problems/implement-trie-prefix-tree.md) | [实现 Trie (前缀树)](problems/implement-trie-prefix-tree.md) | ![](./imgs/medium.png) | 2023/03/19 11:12
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
+| 438 | [Find All Anagrams in a String](problems/find-all-anagrams-in-a-string.md) | [找到字符串中所有字母异位词](problems/find-all-anagrams-in-a-string.md) | ![](./imgs/medium.png) | 2023/07/20 21:35
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
 | 剑指 Offer 07 | [重建二叉树 LCOF](problems/zhong-jian-er-cha-shu-lcof.md) | [重建二叉树](problems/zhong-jian-er-cha-shu-lcof.md) | ![](./imgs/medium.png) | 2021/11/02 18:31
