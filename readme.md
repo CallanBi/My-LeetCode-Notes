@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/194/3202-Solved/Total-blue.svg">
-  <img src="https://img.shields.io/badge/Easy-67-green.svg">
-  <img src="https://img.shields.io/badge/Medium-106-orange.svg">
+  <img src="https://img.shields.io/badge/196/3202-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/Easy-68-green.svg">
+  <img src="https://img.shields.io/badge/Medium-107-orange.svg">
   <img src="https://img.shields.io/badge/Hard-21-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/08/12 19:39</b>
+  <b>Last updated: 2023/08/12 21:51</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 621 | [Task Scheduler](problems/task-scheduler.md) | [任务调度器](problems/task-scheduler.md) | ![](./imgs/medium.png) | 2023/08/12 21:35
+| 617 | [Merge Two Binary Trees](problems/merge-two-binary-trees.md) | [合并二叉树](problems/merge-two-binary-trees.md) | ![](./imgs/easy.png) | 2023/08/12 20:34
 | 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
 | 560 | [Subarray Sum Equals K](problems/subarray-sum-equals-k.md) | [和为 K 的子数组](problems/subarray-sum-equals-k.md) | ![](./imgs/medium.png) | 2023/08/12 19:22
 | 543 | [Diameter of Binary Tree](problems/diameter-of-binary-tree.md) | [二叉树的直径](problems/diameter-of-binary-tree.md) | ![](./imgs/easy.png) | 2023/08/08 14:14
@@ -439,6 +441,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
 | 406 | [Queue Reconstruction by Height](problems/queue-reconstruction-by-height.md) | [根据身高重建队列](problems/queue-reconstruction-by-height.md) | ![](./imgs/medium.png) | 2023/04/10 0:50
 | 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
+| 621 | [Task Scheduler](problems/task-scheduler.md) | [任务调度器](problems/task-scheduler.md) | ![](./imgs/medium.png) | 2023/08/12 21:35
 | 剑指 Offer 45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
 
 
@@ -466,6 +469,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 437 | [Path Sum III](problems/path-sum-iii.md) | [路径总和 III](problems/path-sum-iii.md) | ![](./imgs/medium.png) | 2023/07/20 1:03
 | 538 | [Convert BST to Greater Tree](problems/convert-bst-to-greater-tree.md) | [把二叉搜索树转换为累加树](problems/convert-bst-to-greater-tree.md) | ![](./imgs/medium.png) | 2023/08/08 13:18
 | 543 | [Diameter of Binary Tree](problems/diameter-of-binary-tree.md) | [二叉树的直径](problems/diameter-of-binary-tree.md) | ![](./imgs/easy.png) | 2023/08/08 14:14
+| 617 | [Merge Two Binary Trees](problems/merge-two-binary-trees.md) | [合并二叉树](problems/merge-two-binary-trees.md) | ![](./imgs/easy.png) | 2023/08/12 20:34
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 687 | [Longest Univalue Path](problems/longest-univalue-path.md) | [最长同值路径](problems/longest-univalue-path.md) | ![](./imgs/medium.png) | 2022/09/04 11:31
 | 894 | [All Possible Full Binary Trees](problems/all-possible-full-binary-trees.md) | [所有可能的真二叉树](problems/all-possible-full-binary-trees.md) | ![](./imgs/medium.png) | 2019/01/31 17:40
@@ -635,6 +639,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 494 | [Target Sum](problems/target-sum.md) | [目标和](problems/target-sum.md) | ![](./imgs/medium.png) | 2023/08/08 13:03
 | 560 | [Subarray Sum Equals K](problems/subarray-sum-equals-k.md) | [和为 K 的子数组](problems/subarray-sum-equals-k.md) | ![](./imgs/medium.png) | 2023/08/12 19:22
 | 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
+| 621 | [Task Scheduler](problems/task-scheduler.md) | [任务调度器](problems/task-scheduler.md) | ![](./imgs/medium.png) | 2023/08/12 21:35
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 704 | [Binary Search](problems/binary-search.md) | [二分查找](problems/binary-search.md) | ![](./imgs/easy.png) | 2021/04/08 0:48
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
@@ -686,6 +691,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 239 | [Sliding Window Maximum](problems/sliding-window-maximum.md) | [滑动窗口最大值](problems/sliding-window-maximum.md) | ![](./imgs/hard.png) | 2022/04/23 18:38
 | 264 | [Ugly Number II](problems/ugly-number-ii.md) | [丑数 II](problems/ugly-number-ii.md) | ![](./imgs/medium.png) | 2022/04/12 0:13
 | 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
+| 621 | [Task Scheduler](problems/task-scheduler.md) | [任务调度器](problems/task-scheduler.md) | ![](./imgs/medium.png) | 2023/08/12 21:35
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
 | 剑指 Offer 40 | [最小的k个数  LCOF](problems/zui-xiao-de-kge-shu-lcof.md) | [最小的k个数](problems/zui-xiao-de-kge-shu-lcof.md) | ![](./imgs/easy.png) | 2021/12/08 21:44
 | 剑指 Offer 41 | [数据流中的中位数  LCOF](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | [数据流中的中位数](problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof.md) | ![](./imgs/hard.png) | 2021/12/10 14:16
@@ -714,6 +720,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 438 | [Find All Anagrams in a String](problems/find-all-anagrams-in-a-string.md) | [找到字符串中所有字母异位词](problems/find-all-anagrams-in-a-string.md) | ![](./imgs/medium.png) | 2023/07/20 21:35
 | 448 | [Find All Numbers Disappeared in an Array](problems/find-all-numbers-disappeared-in-an-array.md) | [找到所有数组中消失的数字](problems/find-all-numbers-disappeared-in-an-array.md) | ![](./imgs/easy.png) | 2023/07/23 12:50
 | 560 | [Subarray Sum Equals K](problems/subarray-sum-equals-k.md) | [和为 K 的子数组](problems/subarray-sum-equals-k.md) | ![](./imgs/medium.png) | 2023/08/12 19:22
+| 621 | [Task Scheduler](problems/task-scheduler.md) | [任务调度器](problems/task-scheduler.md) | ![](./imgs/medium.png) | 2023/08/12 21:35
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
 | 剑指 Offer 07 | [重建二叉树 LCOF](problems/zhong-jian-er-cha-shu-lcof.md) | [重建二叉树](problems/zhong-jian-er-cha-shu-lcof.md) | ![](./imgs/medium.png) | 2021/11/02 18:31
@@ -742,6 +749,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
 | 406 | [Queue Reconstruction by Height](problems/queue-reconstruction-by-height.md) | [根据身高重建队列](problems/queue-reconstruction-by-height.md) | ![](./imgs/medium.png) | 2023/04/10 0:50
 | 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
+| 621 | [Task Scheduler](problems/task-scheduler.md) | [任务调度器](problems/task-scheduler.md) | ![](./imgs/medium.png) | 2023/08/12 21:35
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
 | 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面 LCOF](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | [调整数组顺序使奇数位于偶数前面](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | ![](./imgs/easy.png) | 2021/11/04 12:52
@@ -763,6 +771,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 226 | [Invert Binary Tree](problems/invert-binary-tree.md) | [翻转二叉树](problems/invert-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 16:00
 | 297 | [Serialize and Deserialize Binary Tree](problems/serialize-and-deserialize-binary-tree.md) | [二叉树的序列化与反序列化](problems/serialize-and-deserialize-binary-tree.md) | ![](./imgs/hard.png) | 2023/03/26 16:07
 | 399 | [Evaluate Division](problems/evaluate-division.md) | [除法求值](problems/evaluate-division.md) | ![](./imgs/medium.png) | 2023/04/09 21:20
+| 617 | [Merge Two Binary Trees](problems/merge-two-binary-trees.md) | [合并二叉树](problems/merge-two-binary-trees.md) | ![](./imgs/easy.png) | 2023/08/12 20:34
 | 965 | [Univalued Binary Tree](problems/univalued-binary-tree.md) | [单值二叉树](problems/univalued-binary-tree.md) | ![](./imgs/easy.png) | 2020/03/23 14:02
 | 剑指 Offer 13 | [机器人的运动范围  LCOF](problems/ji-qi-ren-de-yun-dong-fan-wei-lcof.md) | [机器人的运动范围](problems/ji-qi-ren-de-yun-dong-fan-wei-lcof.md) | ![](./imgs/medium.png) | 2021/04/09 0:09
 | 剑指 Offer 27 | [二叉树的镜像  LCOF](problems/er-cha-shu-de-jing-xiang-lcof.md) | [二叉树的镜像](problems/er-cha-shu-de-jing-xiang-lcof.md) | ![](./imgs/easy.png) | 2021/11/05 17:44
