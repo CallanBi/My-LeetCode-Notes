@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/192/3202-Solved/Total-blue.svg">
+  <img src="https://img.shields.io/badge/194/3202-Solved/Total-blue.svg">
   <img src="https://img.shields.io/badge/Easy-67-green.svg">
-  <img src="https://img.shields.io/badge/Medium-104-orange.svg">
+  <img src="https://img.shields.io/badge/Medium-106-orange.svg">
   <img src="https://img.shields.io/badge/Hard-21-red.svg">
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2023/08/12 17:33</b>
+  <b>Last updated: 2023/08/12 19:39</b>
   <br>
 </p>
 
@@ -28,6 +28,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 # All Accepted Problems(ordered by last submission time)
 |  #  | Title |  Title-CN  | Difficulty | Last Submission Time |
 |:---:|:-----:|:-----:|:----------:|:----------:|
+| 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
+| 560 | [Subarray Sum Equals K](problems/subarray-sum-equals-k.md) | [和为 K 的子数组](problems/subarray-sum-equals-k.md) | ![](./imgs/medium.png) | 2023/08/12 19:22
 | 543 | [Diameter of Binary Tree](problems/diameter-of-binary-tree.md) | [二叉树的直径](problems/diameter-of-binary-tree.md) | ![](./imgs/easy.png) | 2023/08/08 14:14
 | 538 | [Convert BST to Greater Tree](problems/convert-bst-to-greater-tree.md) | [把二叉搜索树转换为累加树](problems/convert-bst-to-greater-tree.md) | ![](./imgs/medium.png) | 2023/08/08 13:18
 | 494 | [Target Sum](problems/target-sum.md) | [目标和](problems/target-sum.md) | ![](./imgs/medium.png) | 2023/08/08 13:03
@@ -372,6 +374,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 234 | [Palindrome Linked List](problems/palindrome-linked-list.md) | [回文链表](problems/palindrome-linked-list.md) | ![](./imgs/easy.png) | 2023/03/25 19:37
 | 283 | [Move Zeroes](problems/move-zeroes.md) | [移动零](problems/move-zeroes.md) | ![](./imgs/easy.png) | 2023/03/25 21:27
 | 287 | [Find the Duplicate Number](problems/find-the-duplicate-number.md) | [寻找重复数](problems/find-the-duplicate-number.md) | ![](./imgs/medium.png) | 2023/03/26 11:26
+| 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
 | 剑指 Offer 06 | [从尾到头打印链表 LCOF](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | [从尾到头打印链表](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 23:11
 | 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面 LCOF](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | [调整数组顺序使奇数位于偶数前面](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | ![](./imgs/easy.png) | 2021/11/04 12:52
 | 剑指 Offer 22 | [链表中倒数第k个节点 LCOF](problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md) | [链表中倒数第k个节点](problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md) | ![](./imgs/easy.png) | 2021/11/04 15:00
@@ -435,6 +438,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 11 | [Container With Most Water](problems/container-with-most-water.md) | [盛最多水的容器](problems/container-with-most-water.md) | ![](./imgs/medium.png) | 2022/04/12 12:19
 | 55 | [Jump Game](problems/jump-game.md) | [跳跃游戏](problems/jump-game.md) | ![](./imgs/medium.png) | 2022/05/25 22:14
 | 406 | [Queue Reconstruction by Height](problems/queue-reconstruction-by-height.md) | [根据身高重建队列](problems/queue-reconstruction-by-height.md) | ![](./imgs/medium.png) | 2023/04/10 0:50
+| 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
 | 剑指 Offer 45 | [把数组排成最小的数 LCOF](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | [把数组排成最小的数](problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md) | ![](./imgs/medium.png) | 2021/12/17 21:35
 
 
@@ -559,6 +563,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 155 | [Min Stack](problems/min-stack.md) | [最小栈](problems/min-stack.md) | ![](./imgs/medium.png) | 2023/03/04 22:03
 | 234 | [Palindrome Linked List](problems/palindrome-linked-list.md) | [回文链表](problems/palindrome-linked-list.md) | ![](./imgs/easy.png) | 2023/03/25 19:37
 | 394 | [Decode String](problems/decode-string.md) | [字符串解码](problems/decode-string.md) | ![](./imgs/medium.png) | 2023/04/09 18:41
+| 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 剑指 Offer 06 | [从尾到头打印链表 LCOF](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | [从尾到头打印链表](problems/cong-wei-dao-tou-da-yin-lian-biao-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 23:11
 | 剑指 Offer 09 | [用两个栈实现队列 LCOF](problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md) | [用两个栈实现队列](problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md) | ![](./imgs/easy.png) | 2021/04/04 17:22
@@ -628,6 +633,8 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 416 | [Partition Equal Subset Sum](problems/partition-equal-subset-sum.md) | [分割等和子集](problems/partition-equal-subset-sum.md) | ![](./imgs/medium.png) | 2023/05/12 13:34
 | 448 | [Find All Numbers Disappeared in an Array](problems/find-all-numbers-disappeared-in-an-array.md) | [找到所有数组中消失的数字](problems/find-all-numbers-disappeared-in-an-array.md) | ![](./imgs/easy.png) | 2023/07/23 12:50
 | 494 | [Target Sum](problems/target-sum.md) | [目标和](problems/target-sum.md) | ![](./imgs/medium.png) | 2023/08/08 13:03
+| 560 | [Subarray Sum Equals K](problems/subarray-sum-equals-k.md) | [和为 K 的子数组](problems/subarray-sum-equals-k.md) | ![](./imgs/medium.png) | 2023/08/12 19:22
+| 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
 | 654 | [Maximum Binary Tree](problems/maximum-binary-tree.md) | [最大二叉树](problems/maximum-binary-tree.md) | ![](./imgs/medium.png) | 2018/12/23 17:52
 | 704 | [Binary Search](problems/binary-search.md) | [二分查找](problems/binary-search.md) | ![](./imgs/easy.png) | 2021/04/08 0:48
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
@@ -706,6 +713,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
 | 438 | [Find All Anagrams in a String](problems/find-all-anagrams-in-a-string.md) | [找到字符串中所有字母异位词](problems/find-all-anagrams-in-a-string.md) | ![](./imgs/medium.png) | 2023/07/20 21:35
 | 448 | [Find All Numbers Disappeared in an Array](problems/find-all-numbers-disappeared-in-an-array.md) | [找到所有数组中消失的数字](problems/find-all-numbers-disappeared-in-an-array.md) | ![](./imgs/easy.png) | 2023/07/23 12:50
+| 560 | [Subarray Sum Equals K](problems/subarray-sum-equals-k.md) | [和为 K 的子数组](problems/subarray-sum-equals-k.md) | ![](./imgs/medium.png) | 2023/08/12 19:22
 | 804 | [Unique Morse Code Words](problems/unique-morse-code-words.md) | [唯一摩尔斯密码词](problems/unique-morse-code-words.md) | ![](./imgs/easy.png) | 2022/04/10 22:06
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
 | 剑指 Offer 07 | [重建二叉树 LCOF](problems/zhong-jian-er-cha-shu-lcof.md) | [重建二叉树](problems/zhong-jian-er-cha-shu-lcof.md) | ![](./imgs/medium.png) | 2021/11/02 18:31
@@ -733,6 +741,7 @@ My LeetCode homepage : [moltemort - Profile - LeetCode](https://leetcode-cn.com/
 | 215 | [Kth Largest Element in an Array](problems/kth-largest-element-in-an-array.md) | [数组中的第K个最大元素](problems/kth-largest-element-in-an-array.md) | ![](./imgs/medium.png) | 2023/03/25 10:13
 | 347 | [Top K Frequent Elements](problems/top-k-frequent-elements.md) | [前 K 个高频元素](problems/top-k-frequent-elements.md) | ![](./imgs/medium.png) | 2023/04/09 17:09
 | 406 | [Queue Reconstruction by Height](problems/queue-reconstruction-by-height.md) | [根据身高重建队列](problems/queue-reconstruction-by-height.md) | ![](./imgs/medium.png) | 2023/04/10 0:50
+| 581 | [Shortest Unsorted Continuous Subarray](problems/shortest-unsorted-continuous-subarray.md) | [最短无序连续子数组](problems/shortest-unsorted-continuous-subarray.md) | ![](./imgs/medium.png) | 2023/08/12 19:38
 | 912 | [Sort an Array](problems/sort-an-array.md) | [排序数组](problems/sort-an-array.md) | ![](./imgs/medium.png) | 2021/04/05 0:23
 | 剑指 Offer 03 | [数组中重复的数字 LCOF](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | [数组中重复的数字](problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md) | ![](./imgs/easy.png) | 2021/04/03 20:31
 | 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面 LCOF](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | [调整数组顺序使奇数位于偶数前面](problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md) | ![](./imgs/easy.png) | 2021/11/04 12:52
